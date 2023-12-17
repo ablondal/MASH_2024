@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<body>
+    <h1>Dizzy Bob</h1>
+    <p>
+        Bob is stuck in an $N$ by $M$ rectangular maze and needs to find a way out.
+        Unfortunately, Bob’s task is made harder by the fact that he gets dizzy extremely easily.
+        In fact, even just a 90 degree turn may cause him to lose his balance and fall down. 
+        To reduce the risk of falling down, Bob wants to find a path through the rectangular maze that requires him to change direction the least number of times possible.
+        Bob starts in the top-left corner of the maze, and the exit is at the bottom-right corner of the maze. 
+        Bob can only move in 4 directions (up, down, left, right), and can’t pass through any obstacles in his way. 
+        What is the minimum number of times he must change direction before reaching the exit?
+    </p>
+    <h2>Input</h2>
+    <p>
+        The first line contains two integers $N$ and $M$ - the height and width of the maze respectively.
+        Next, there will be an $N$ by $M$ grid of characters that shows the structure of the maze.
+        A $#$ represents an obstacle, while a $.$ represents an area that Bob can walk on.
+        It is guaranteed that there are no obstacles in the top left and bottom right corners of the maze. 
+    </p>
+    <p>
+        $1 \leq N \leq 1000$ <br>
+        $1 \leq M \leq 1000$ <br>
+    </p>
+    <h2>Output</h2>
+    <p>
+        Output a single integer - the minimum number of times that Bob must change direction to reach the exit.
+        If there is no path that Bob can take to reach the exit, output -1.
+    </p>
+<h3>Sample Input 1</h3>
+<pre>
+3 3
+...
+...
+...    
+</pre>
+<h3>Sample Output 1</h3>
+<pre>
+1
+</pre>
+<p>If Bob chooses the path Right-Right-Down-Down, he only needs to change direction 1 time to reach his destination.</p>
+<h3>Sample Input 2</h3>
+<pre>
+3 3
+.#.
+...
+.#.
+</pre>
+<h3>Sample Output 2</h3>
+<pre>
+2
+</pre>
+<p>The best path Bob can take is Down-Right-Right-Down, and he needs to change direction 2 times.</p>
+<h3>Sample Input 3</h3>
+<pre>
+3 3
+.#.
+#..
+...    
+</pre>
+<h3>Sample Output 3</h3>
+<pre>
+-1
+</pre>
+<p>Bob can't reach his destination because he is blocked by obstacles.</p>
+</body>
