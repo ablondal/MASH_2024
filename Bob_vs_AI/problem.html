@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<body>
+  <h1>Bob vs AI</h1>
+  <p>
+    Bob just graduated from university and is looking to land his first software
+    engineering job. After a couple weeks of searching, Bob gets an interview
+    request from his dream company! He carefully reads the portion of the email
+    that explains the interview process:
+  </p>
+  <pre>
+    You will be given $N$ leetcode-style questions to solve.
+    These same questions will be given to $M$ cutting-edge AI models to solve as well.
+    To pass the interview, you must solve more questions correctly than each of the AI models.
+  </pre>
+  <p>
+    Given the probabilities that Bob and the AI models will solve each question
+    correctly, help Bob calculate the probability that he will pass the
+    interview.
+  </p>
+
+  <h2>Input</h2>
+  <p>
+    The first line will contain two integers $N$ and $M$ - the number of
+    questions to solve, and the number of AI models that Bob has to compete
+    against.
+  </p>
+  <p>
+    The second line will contain N decimal values between $0$ and $1$. The
+    $i_th$ number is the probability that Bob will solve the $i_th$ problem
+    correctly.
+  </p>
+  <p>
+    Next there will be $M$ lines, each containing $N$ decimal values between $0$
+    and $1$. The $i_th$ number in the $j_th$ line is the probability that the
+    $i_th$ problem will be solved correctly by the $j_th$ AI model.
+  </p>
+  <p>
+    $1 \leq N \leq 1000$ <br />
+    $1 \leq M \leq 10$ <br />
+  </p>
+  <h2>Output</h2>
+  <p>
+    A single decimal value between $0$ and $1$ - the probability that Bob solves
+    more questions correctly than each of the AI models.
+    <strong>
+      Your output must have an absolute error of less than 10^-6 to be
+      considered correct.
+    </strong>
+  </p>
+  <h3>Sample Input 1</h3>
+  <pre>
+1 1
+0.75
+0.5       
+  </pre>
+  <h3>Sample Output 1</h3>
+  <pre>
+0.375
+  </pre>
+  <h3>Sample Input 2</h3>
+  <pre>
+3 2
+1 1 1
+0.5 0.5 0.5
+0.75 0.6 0.5    
+  </pre>
+  <h3>Sample Output 2</h3>
+  <pre>
+0.678125
+  </pre>
+</body>
