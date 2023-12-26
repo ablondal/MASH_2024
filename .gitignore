@@ -51,4 +51,4 @@ Thumbs.db
 
 .vscode
 .idea
-.idea/*
+venv
