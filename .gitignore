@@ -49,6 +49,8 @@
 ehthumbs.db
 Thumbs.db
 
+# IDE config files #
+####################
 .vscode
 .idea
 venv
