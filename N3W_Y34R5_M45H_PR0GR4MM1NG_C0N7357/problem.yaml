@@ -9,4 +9,4 @@ mem_MB: 1024
 validator: ignore_whitespace
 cases:
   sample: 1
-  secret: 1
+  secret: 2
