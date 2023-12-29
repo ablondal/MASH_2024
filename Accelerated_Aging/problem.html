@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<body>
+  <h1>Accelerated Aging</h1>
+  <p>Happy new year!</p>
+  <p>
+    It is a Korean tradition to eat a bowl of Tteokguk (rice cake soup) on New
+    Year's Day, and only then their age goes up by 1. Everyone ages up on New
+    Year's Day, regardless of their birthdays.
+    <a
+      href="https://en.wikipedia.org/wiki/East_Asian_age_reckoning"
+      target="_blank"
+    >
+      (see wikipedia on Korean Age Reckoning)
+    </a>
+  </p>
+  <p>
+    Alice and Bob are 15 year old twins born on the same day. Since Korea has a
+    culture of using honorifics to older kids, Alice and Bob want to get as old
+    as possible by eating lots and lots of tteokguk. For every bowl of tteokguk
+    they eat, they will age up 1 year.
+  </p>
+  <p>
+    There are $N$ bowls of tteokguk prepared. To ensure fair division of
+    tteokguk, Alice and Bob take turns claiming tteokguk bowls. Alice goes
+    first, Bob goes next.
+  </p>
+  <p>
+    Each turn, Alice and Bob can do one of the following:
+    <li>Take one bowl</li>
+    <li>
+      If the number of remaining bowls is even, take half of the remaining bowls
+    </li>
+    <li>If the number of remaining bowls is a multiple of 3, take 2 bowls</li>
+    <li>If the number of remaining bowls is a multiple of 5, take 3 bowls</li>
+  </p>
+  <p>
+    Both Alice and Bob try to get as old as possible. They will both make
+    optimal choices to maximize their own age, keeping in mind that their twin
+    will do the same. How old will Alice and Bob be after they finish all the
+    tteokguk if they make optimal choices?
+    <b>
+      They are both 15 years old before they start eating, so don't forget to
+      add 15 to the answer!
+    </b>
+  </p>
+
+  <h2>Input</h2>
+  <p>
+    A single integer $N$ - the number of tteokguk bowls Alice and Bob have to
+    share.
+  </p>
+  <p>$1 \leq N \leq 10000$ <br /></p>
+  <h2>Output</h2>
+  <p>
+    Output two integers on a single line - the ages of Alice and Bob after they
+    finish all the tteokguk, assuming both are making optimal choices.
+  </p>
+  <h3>Sample Input 1</h3>
+  <pre>
+1       
+  </pre>
+  <h3>Sample Output 1</h3>
+  <pre>
+16 15
+  </pre>
+  <p>
+    Since Alice goes first, she takes the only bowl of tteokguk. There are no
+    bowls left for Bob to take.
+  </p>
+  <h3>Sample Input 2</h3>
+  <pre>
+4 
+  </pre>
+  <h3>Sample Output 2</h3>
+  <pre>
+18 16
+  </pre>
+  <p>
+    Here is a sequence of optimal actions:
+    <li>4 bowls left: Alice takes half of the remaining bowls.</li>
+    <li>2 bowls left: Bob takes one bowl.</li>
+    <li>1 bowl left: Alice takes one bowl.</li>
+    Overall, Alice ate 3 bowls and Bob ate 1. Therefore, Alice is now 18 years
+    old and Bob is 16 years old.
+  </p>
+</body>
