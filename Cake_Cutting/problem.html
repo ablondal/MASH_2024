@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<body>
+<h1>Cake Cutting</h1>
+<p>
+    Crystal bought a cake with cute decorations!
+</p>
+<p>
+    The cake takes on a cuboid shape, meaning it appears rectangular when viewed from the top. On the top of the cake, there are two rows of very cute square-shaped decorations, each distinct but identical in size.
+</p>
+<p>
+    Now, we have a task: Distribute the cake among n people by slicing it into n portions. Due to the cuteness of the decorations, we want to avoid slicing through the decorations. Moreover, some individuals have chosen the specific decorations they want to have, and these must be included in their respective slices.
+</p>
+<p>
+    The rules are as follows:
+</p>
+<ul>
+    <li>Each person gets exactly one slice.
+    <li>All parts in a slice are connected. Being connected means sharing an edge, or sharing an edge with any other connected parts of the slice.
+    <li>Some parts with decorations are reserved and must be included in the slice of the person who reserved it.
+    <li>Slices doesn't necessarily have to be of same size or volume. It can be of arbitrary shape, as long as it is connected.
+</ul>
+<p>
+    Note that the slices don't have to be uniform in size or volume; they can take on any shape, as long as they are connected.
+</p>
+<p>
+    How many ways can we cut the cake? Since the number can be very big, output the answer modulo 100000007.
+</p>
+<h2>Input</h2>
+<p>
+    The first line contains two integers $w$ and $n$ - the width of the cake seen from the top, and the number of people respectively. <br>
+    The following 2 lines contain w characters that are either a number i or '.'(dot). <br>
+    A number i indicates that the decoration is reserved for the $i$-th person, while a '.'(dot) indicates that the decoration is not reserved. <br>
+</p>
+<p>
+    $1 \leq w \leq 30$ <br>
+    $1 \leq n \leq 5$ <br>
+</p>
+<h2>Output</h2>
+<p>
+    Output a single number, the number of ways to cut the cake modulo 100000007.
+</p>
+<h3>Sample Input 1</h3>
+<pre>
+    2 2 <br>
+    . . 1 <br>
+    . 2 1 <br>
+</pre>
+<h3>Sample Output 1</h3>
+<pre>
+    4
+</pre>
+<p>
+    There are 4 possibilities: <br><br>
+    1 1 1&emsp;&emsp;1 1 1&emsp;&emsp;2 1 1&emsp;&emsp;2 2 1 <br>
+    1 2 1&emsp;&emsp;2 2 1&emsp;&emsp;2 2 1&emsp;&emsp;2 2 1 <br><br>
+
+    Some examples of invalid cuttings:
+    <br><br>
+    1 2 1&emsp;&emsp;1 2 1&emsp;&emsp;1 1 1&emsp;&emsp;<br>
+    1 1 1&emsp;&emsp;1 2 1&emsp;&emsp;1 1 1&emsp;&emsp;<br><br>
+
+    (1) The first cut is invalid because the second person has reserved the decoration on row 2 column 2, but the first person took the decoration.<br>
+    (2) The second cut is invalid because the first person gets two disconnected slices.<br>
+    (3) The third cut is invalid because the second person does not get any slices.<br>
+
+</p>
+<h3>Sample Input 2</h3>
+<pre>
+    1 2 <br>
+    . <br>
+    . <br>
+</pre>
+<h3>Sample Output 2</h3>
+<pre>
+    2
+</pre>
+<h3>Sample Input 3</h3>
+<pre>
+    3 2 <br>
+    2 . 1 <br>
+    1 . 2 <br>
+</pre>
+<h3>Sample Output 3</h3>
+<pre>
+    0
+</pre>
+</body>
