@@ -4,9 +4,9 @@ name: Cake Cutting
 author: Hailey Ahn
 rights_owner: SFU Online Judge
 id: 1
-time_sec: 1
+time_sec: 3
 mem_MB: 1024
 validator: ignore_whitespace
 cases:
   sample: 1
-  secret: 2
+  secret: 100
