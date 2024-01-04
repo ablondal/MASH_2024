@@ -72,15 +72,14 @@ void generateTestCaseTLETest(ofstream &inFile, const int& w, const int& n) {
 
 int main() {
     srand(time(NULL));
-    int numTests = 80;
-    /*
+
     for(int z = 5; z < 80; z++){
         ofstream inFile(getInputName(z + 1));
         int w = ((double)z / 8.0)+2;
         int n = (z%4)+2;
         generateTestCase(inFile, w, n);
         inFile.close();
-    }*/
+    }
 
     for(int z = 80; z < 99; z++){
         ofstream inFile(getInputName(z + 1));
