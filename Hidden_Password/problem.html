@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<body>
+  <h1>Hidden Password</h1>
+  <p>
+    In Cyberplex, a hacker named Cipher has hidden a vital password within an
+    $N$x$N$ grid of characters. The password is hidden somewhere in the grid,
+    either horizontally, vertically, diagonally, or even reversed! The city's
+    systems are paralyzed, and you, a skilled coder, are tasked to find the
+    hidden word. Can you parse the grid of characters and determine which of the
+    $M$ possibilities is the password, or will the city remain locked in a
+    digital enigma forever?
+  </p>
+  <p>Only one of the $M$ possible passwords will be hidden in the grid.</p>
+  <h2>Input</h2>
+  <p>
+    The first line contains an integer $N$ - the size of the grid. Next, there
+    will be an $N$ by $N$ grid of characters containing the hidden password.
+    Finally, there will be an integer $M$, followed by $M$ lines containing the
+    possibilities for the hidden password.
+  </p>
+  <p>The only characters used in this problem are from a-z.</p>
+  <p>
+    $3 \leq N \leq 10$ <br />
+    $3 \leq M \leq 10$ <br />
+  </p>
+  <h2>Output</h2>
+  <p>
+    The hidden password that appears in the grid either horizontally,
+    vertically, diagonally, or reversed (8 possible directions).
+  </p>
+  <h3>Sample Input 1</h3>
+  <pre>
+4
+daaa
+araa
+aaoa
+aaaw
+3
+word
+z
+abc        
+</pre
+  >
+  <h3>Sample Output 1</h3>
+  <pre>
+word
+</pre
+  >
+  <p>
+    The hidden password "word" is in the grid diagonally and reversed. None of
+    the other possible passwords are in the grid.
+  </p>
+</body>
