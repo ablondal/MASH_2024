@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<body>
+<h1>Slightly Less Special Primes</h1>
+<p>
+    Special primes are prime numbers obtained by adding 1 to the sum of two neighboring prime numbers. For example, 19 is a special prime because it equals $7 + 11 + 1$, and 13 is also a special prime as it equals $5 + 7 + 1$.
+</p>
+<p>
+    The winter is cold, and number theorists have shown favoritism over only the most special primes. Perhaps it is time to look at some other primes, for instance, the neglected "slightly less special primes".
+</p>
+<p>
+    Slightly less special primes (SLSP) are primes that meet the following criteria:
+</p>
+<ul>
+    <li>The number $x$ is prime.</li>
+    <li>$x$ can be expressed as $a + b + 1$, where $a$ and $b$ are integers, and $gcd(a, b)$, the greatest common divisor of $a$ and $b$, is equal to the $(\frac{b}{gcd(a, b)} - \frac{a}{gcd(a, b)})$-th smallest prime.</li>
+    <li>Both $\frac{a}{gcd(a, b)}$ and $\frac{b}{gcd(a, b)}$ are primes, and there are no other prime numbers between them.</li>
+</ul>
+<p>
+    How many slightly less special primes (SLSP) up to the given value $n$ exist?
+</p>
+<h2>Input</h2>
+<p>
+    A single line containing a single integer $n$.
+</p>
+<p>
+    $1 \leq n \leq 1000$
+</p>
+<h2>Output</h2>
+<p>
+    Output a single integer: Number of slightly less special primes up to $n$.
+</p>
+<h3>Sample Input 1</h3>
+<pre>
+50
+</pre>
+<h3>Sample Output 1</h3>
+<pre>
+2
+</pre>
+<p>
+    11 is a SLSP. Let $a=4$, $b=6$. Then $gcd(a,b)=2$ is the $(\frac{6}{2} - \frac{4}{2})=1$st smallest prime, and $\frac{6}{2}$, $\frac{4}{2}$ are both primes with no other prime inbetween.<br>
+    37 is also a SLSP, by $a=15$, $b=21$.<br>
+    There are no other SLSP below 50.
+</p>
+</body>

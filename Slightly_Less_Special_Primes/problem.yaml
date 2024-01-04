@@ -1,0 +1,12 @@
+source: SFU Judge
+license: cc by-sa
+name: Slightly Less Special Primes
+author: Hailey Ahn
+rights_owner: SFU Online Judge
+id: 1
+time_sec: 1
+mem_MB: 1024
+validator: ignore_whitespace
+cases:
+  sample: 1
+  secret: 5
