@@ -8,5 +8,5 @@ time_sec: 1
 mem_MB: 1024
 validator: ignore_whitespace
 cases:
-  sample: 1
-  secret: 2
+  sample: 0
+  secret: 100
