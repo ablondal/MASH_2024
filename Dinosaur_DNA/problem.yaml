@@ -1,0 +1,19 @@
+source: SFU Judge
+license: cc by-sa
+name: Dinosaur DNA
+author: Ari Blondal
+rights_owner: SFU Online Judge
+
+time_sec: 1
+mem_MB: 1024
+
+input:
+  "*.in": stdin
+checker: custom
+checker_opts:
+  lang: Pypy3
+  name: checker.py
+
+cases:
+  sample: 0
+  secret: 100

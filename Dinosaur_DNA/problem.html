@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<body>
+    <h1>Dinosaur DNA</h1>
+    <p>
+        Alex just landed her dream job, an internship at InGen on the
+        beautiful Isla Nublar!
+        She's sequencing dinosaur DNA retrieved from ancient mosquitoes
+        trapped in amber.
+        In order to analyze the complexity of the DNA she's studying,
+        she decomposed the DNA into a set of <b>base strands</b>,
+        strands of DNA from which all of the dinosaur DNA can be composed
+        (through concatenation).
+        Note that no <b>base strand</b> can be made by concatenating
+        other <b>base strands</b>, since then it wouldn't be a base strand.
+    </p>
+    <p>
+        Yesterday, she made samples of each <b>base strand</b>,
+        and put them in seperate test tubes.
+        When she came into work today, however, all of the test tubes
+        had been poured into a single basin, and all the <b>base strands</b>
+        were mixed together!
+        She's retrieved all the <b>strands</b> of DNA from the mixture,
+        but is unsure if any of the <b>base strands</b> have combined to
+        form new strands.
+        Help her figure out whether this is the case!
+    </p>
+    <h2>Input</h2>
+    <p>
+        The first line of the input consists of a single integer, $n$,
+        the number of <b>strands</b> that Alex has retrieved.
+    </p>
+    <p>
+        Following are $n$ unique DNA strands $s_1, \dots, s_n$, each a string consisting only
+        of the letters <code>ACGT</code>.
+    </p>
+    <h2>Output</h2>
+    <p>
+        If there exist any <b>composite strands</b>, that is, strands
+        formed by concatenation of other strands,
+        output a line containing <code>Yes</code>.
+        Otherwise, output a line containing <code>No</code>.
+    </p>
+    <p>
+        If there were <b>composite strands</b>, illustrate one of them
+        by showing how it is formed by concatenating other strands.
+        See Sample 1 for an example of the format.
+    </p>
+    <h2>Bounds</h2>
+    <p>
+        $\sum_{i=1}^n |s_i| \leq 50000$
+    </p>
+
+    <h2>Sample 1</h2>
+    <h3><code>stdin</code></h3>
+    <p class="monospace">
+4
+AT
+CG
+CGAT
+ATAT
+    </p>
+    <h3><code>stdout</code></h3>
+    <p class="monospace">
+Yes
+CG + AT = CGAT
+    </p>
+    <p>
+        Note that <code>AT + AT = ATAT</code> would also have been a
+        valid answer.
+    </p>
+    <h2>Sample 2</h2>
+    <h3><code>stdin</code></h3>
+    <p class="monospace">
+3
+AGT
+GTA
+TCG
+    </p>
+    <h3><code>stdout</code></h3>
+    <p class="monospace">
+No
+    </p>
+</body>
