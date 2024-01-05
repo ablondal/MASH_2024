@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<body>
+    <h1>Rabbit Race</h1>
+    <p>
+        Ralph participates in an annual rabbit race.
+        Rabbits are special, because they never get tired and only ever run around
+        a track at top speed<sup>(citation needed)</sup>.
+        This is a special rabbit race, where rabbits compete in a team.
+        Rabbits run laps around a track of length $l$ cm, but the team only finishes
+        when all the rabbits cross the finish line simultaneously.
+    </p>
+    <p>
+        Finally, because the organizers encourage team cohesiveness over raw speed,
+        each team's finish time is multiplied by the speed of its fastest rabbit
+        (in cm/s) to get their <b>final time</b>.
+    </p>
+    <p>
+        Normally, Ralph trains his rabbits, but this year he forgot,
+        and they're so lazy that they won't even run.
+        In a rush to assemble a team, he visits a pet shop,
+        expecting to find a few rabbits that he'll have to settle for.
+        However, he is surprised to find a couple hundred ($1 \leq n \leq 200$)
+        rabbits to choose from!
+        Furthermore, expecting business from rabbit racers, the shop owner has
+        labeled each rabbit with its speed in cm/s ($1 \leq v_i \leq 10000$).
+    </p>
+    <p>
+        Help Ralph find the optimal set of $k$ rabbits ($1 \leq k \leq 6$) 
+        that can finish the race the fastest!
+    </p>
+    <h2>Input</h2>
+    <p>
+        The first line of input contains three integers: $n$, $k$, and $l$,
+        the number of rabbits in the shop, the size of a team,
+        and the length of the track.
+        The next line contains $n$ integers $v_1, \dots, v_n$, the speeds
+        of all the rabbits.
+    </p>
+    <p>
+        $1 \leq n \leq 200$<br>
+        $1 \leq k \leq \min(6, n)$<br>
+        $1 \leq l \leq 10000$<br>
+        $1 \leq v_i \leq 10000$
+    </p>
+    <h2>Output</h2>
+    <p>
+        Output a single integer - the minimum <b>final time</b> in seconds that any
+        set of $k$ rabbits from the shop can achieve
+        (don't forget the penalty for the fastest rabbit).
+    </p>
+<h3>Sample Input 1</h3>
+<pre>
+2 1 100
+1 2
+</pre>
+<h3>Sample Output 1</h3>
+<pre>
+100
+</pre>
+<p>Since only one rabbit is needed, we can choose any!</p>
+<h3>Sample Input 2</h3>
+<pre>
+5 2 100
+9 8 10 7 15
+</pre>
+<h3>Sample Output 2</h3>
+<pre>
+300
+</pre>
+<p>
+    Even though they accumulate the highest penalty,
+    the rabbits with speeds 10 and 15 are so fast that they finish the
+    race in 20 seconds.
+    Their penalty only brings them up to a final time of 300 seconds.
+</p>
+<h3>Sample Input 3</h3>
+<pre>
+5 2 64
+4 4 5 6 7
+</pre>
+<h3>Sample Output 3</h3>
+<pre>
+64
+</pre>
+</body>
