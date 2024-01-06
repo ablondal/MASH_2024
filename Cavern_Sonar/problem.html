@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<body>
+    <h1>Cavern Sonar</h1>
+    <p>
+        Gum the sentient cave robot is lost in a cave system,
+        and needs to broadcast a distress signal.
+        In order to do so, Gum needs to amplify their signal to
+        have it reach the surface.
+        Luckily, they have found a perfectly circular cavern!
+        If they stand in the middle of the cavern,
+        they can bounce the signal off the walls to amplify it
+        and get rescued!
+    </p>
+    <p>
+        Using only sonar to detect how close the closest wall is,
+        help Gum determine the center of the cavern, relative to their current location.
+        They are currently at the position $(0, 0)$, in the cavern.
+        They only have enough energy to do 999 queries and one transmission,
+        so devise a good plan!
+    </p>
+    <p>
+        If the center of the cave is at $(x,y)$, and it has radius $r$,
+        we have that $-1000 \leq x, y \leq 1000$ and $1 \leq r \leq 2000$,
+        and that the cave contains $(0, 0)$.
+    </p>
+    <p>
+        <b>This is an interactive problem.</b>
+    </p>
+
+    <h2>Interaction Details</h2>
+    <p>
+        In an interactive problem, you have to be <b>extra</b>
+        careful with whitespace and formatting.
+        It is very hard for the judge to give you helpful debugging information,
+        so test thoroughly.
+        Output no extra newlines, and exit your code the moment you use all of
+        your guesses, guess the location of the center of the cavern,
+        or receive the error code <code>-2</code> at any time.
+        Furthermore, <b>Make sure to flush after each print statement</b>.
+        This can be done through C++'s <code>endl</code>,
+        and Python's <code>print</code> function flushes automatically.
+    </p>
+    <p>
+        The interactor starts by printing a float: the distance of the cavern
+        wall from $(0, 0)$.
+        This does not count as a query!
+    </p>
+    <p>
+        You must then continue the interaction by printing a query:
+    </p>
+    <p>
+        <code>? x y</code>
+    </p>
+    <p>
+        Then, the interactor will give you the distance from the closest cave
+        wall, as a floating point number with 9 decimal places.
+        If your query was not inside the cave, it will instead give you <code>-1</code>.
+    </p>
+    <p>
+        You can get this result through a single line of stdin,
+        as if reading input like in the other problems.
+    </p>
+    <p>
+        When you are confident about the location of the center of the cavern,
+        print a guess, then <b>immediately</b> exit your program.
+    </p>
+    <p>
+        <code>! x y</code>
+    </p>
+    <p>
+        Your guess will be marked correct if it is within a
+        thousandth of a coordinate away from the true center.
+        In testing, if it is correct, the interactor will print
+        <code>Correct</code> to <code>stderr</code>.
+    </p>
+    
+    <h2>Testing</h2>
+    <p>
+        To test your program, run the supplied <code>run_interactive.py</code> program:
+    </p>
+    <pre>
+        python3 run_interactive.py "python3 interactor.py sample.in" "python3 your_program.py"
+    </pre>
+    <p>
+        Of course, if you're not using python, adjust!
+    </p>
+    <p>
+        Make sure that <code>sample.in</code> is in the same folder
+        as the three other programs.
+    </p>
+    <p>
+        Note that the problem has a time limit of 1 seconds per test!
+        A result of <code>TLE</code> is not guaranteed if you use too
+        much time (interactive judges are hard to make, blame Ari), so beware.
+    </p>
+
+    <h3>Sample Interaction 1</h3>
+    <p>The true center is at (2, 2), and the radius is 5.</p>
+<pre>
+    prog >> 0 0
+    judge >> 
+    prog >> hello
+    judge >> *****
+    prog >> doors
+    judge >> -*_-_
+    prog >> crowd
+    judge >> _---*
+    prog >> world
+    judge >> *****
+</pre>
+</body>
