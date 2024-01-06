@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<body>
+    <h1>Squirrel Stash</h1>
+    <p>
+        In the fall, squirrels' brains have been shown to increase in size
+        up to 15%.
+        This is in order to help them remember all the places they've
+        hidden their food away for the winter.
+        Stella is one such squirrel.
+    </p>
+    <p>
+        In the frosty depths of winter, Stella's silhouette has slimmed.
+    </p>
+    <p>
+        Springtime had her secretly stashing seeds, smuggling them into
+        spy-proof stores.
+        Since then, snow has shielded the sticks she sorted as signposts 
+        for her subsistence stores. 
+        As a savvy squirrel, however, she studied a system to spare 
+        her the starvation that might stem from this situation.
+    </p>
+    <p>
+        She summons strings of memory, strides that send her in sequence
+        to each stash where a scrumptious supply securely sleeps. 
+        Support Stella's search, so she swiftly snags sustenance from 
+        the snow-laden soil!
+    </p>
+    <p>
+        Her territory is modelled as a two-dimensional plane, 
+        and Stella starts at the point (0, 0), pointing East (towards (1, 0)). 
+        She remembers a list of actions that she took to hide her food. 
+        Each action is either a distance walked straight, 
+        a counter-clockwise turn, or a seed stashed. 
+        Output the position of each seed she buried, in order.
+    </p>
+    <h2>Input</h2>
+    <p>
+        The first line will contain an integer $n$, 
+        indicating the number of actions Stella remembers.
+        $n$ lines follow.
+        Each one consists of one of three possible actions:
+    </p>
+    <ul>
+        <li><code>stride d</code>: Indicates that Stella walked $d$ metres directly forward.</li>
+        <li><code>spin r</code>:
+            Indicates that Stella turned exactly r degrees counter-clockwise.
+        </li>
+        <li><code>stash</code>:
+            Indicates that Stella stashed a seed.
+        </li>
+    </ul>
+
+    <p>
+        $d$ and $r$ are guaranteed to be integers.<br>
+        $1 \leq n \leq 100$<br>
+        $1 \leq d \leq 100$<br>
+        $0 \leq r \leq 359$
+    </p>
+    <h2>Output</h2>
+    <p>
+        Print $n$ lines, one for each of Stella's stash commands.
+        Line $i$ should contain the $x$ and $y$ coordinates of Stella's $i$th stash.
+        Your answer will be considered correct if each number in your answer
+        has absolute or relative error smaller than 10^-3.
+    </p>
+<h3>Sample Input 1</h3>
+<pre>
+3
+spin 90
+stride 1
+stash
+</pre>
+<h3>Sample Output 1</h3>
+<pre>
+0 1
+</pre>
+</body>
