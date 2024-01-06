@@ -1,0 +1,12 @@
+source: SFU Judge
+license: cc by-sa
+name: The Weakest Link
+author: Shea Janke
+rights_owner: SFU Online Judge
+id: 1
+time_sec: 1
+mem_MB: 1024
+checker: ignore_whitespace
+cases:
+  sample: 0
+  secret: 100

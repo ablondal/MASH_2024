@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<body>
+  <h1>The Weakest Link</h1>
+  <p>
+    Bob has been put in charge of organizing the $N$ players with various skill
+    levels into teams of two for the “Pair Programming” tournament. The overall
+    skill level of a team is the sum of the skill levels of its two members.
+    Since these teams will be competing head-to-head in front of a large crowd,
+    Bob wants to form the teams so that the matches are as entertaining for the
+    spectators. More specifically, Bob's idea is to form teams in such a way
+    that the weakest team has an overall skill level that is as high as
+    possible. This will ensure that the matches between the teams are close and
+    entertaining. Assuming Bob forms teams in such a way that maximizes the
+    skill level of the weakest team, what would be the skill level of the
+    weakest team?
+  </p>
+  <h2>Input</h2>
+  <p>
+    The first line contains a single integer $N$ - the number of players. $N$ is
+    guaranteed to be even. The next line will contain $N$ integers $s_1$, $s_2$,
+    …, $s_n$, where $s_i$ is the skill level of the $i_th$ player.
+  </p>
+  <p>
+    $4 \leq N \leq 1000$ <br />
+    $1 \leq s_i \leq 1000$ <br />
+  </p>
+  <h2>Output</h2>
+  <p>
+    Output a single integer - the maximum possible skill level of the weakest
+    team.
+  </p>
+  <h3>Sample Input</h3>
+  <pre>
+4
+5 4 1 3     
+</pre
+  >
+  <h3>Sample Output</h3>
+  <pre>
+6
+</pre
+  >
+  <h3>Sample Explanation</h3>
+  <p>
+    There are 3 possible team formations: <br />
+    <li>5 & 4, 1 & 3 -> weakest team skill = 4</li>
+    <li>5 & 1, 4 & 3 -> weakest team skill = 6</li>
+    <li>5 & 3, 4 & 1 -> weakest team skill = 5</li>
+  </p>
+  <p>
+    The second formation maximizes the skill of the weakest team, with an
+    overall skill level of 6.
+  </p>
+</body>
