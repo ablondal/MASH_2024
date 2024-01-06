@@ -1,12 +1,16 @@
 source: SFU Judge
 license: cc by-sa
-name: Rabbit Race
+name: Hockey Cards
 author: Ari Blondal
 rights_owner: SFU Online Judge
 id: 1
 time_sec: 1
 mem_MB: 1024
-checker: ignore_whitespace
+checker: custom
+checker_opts:
+  lang: Pypy3
+  name: checker.py
 cases:
   sample: 0
+  sbmple: 50
   secret: 100

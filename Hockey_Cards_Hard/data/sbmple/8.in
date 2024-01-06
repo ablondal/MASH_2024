@@ -1,0 +1,201 @@
+100 100
+AAAA 15 50
+ABAA 15 51
+ACAA 16 52
+ADAA 16 53
+BAAA 17 54
+BBAA 17 55
+BCAA 18 56
+BDAA 18 57
+CAAA 19 58
+CBAA 19 59
+CCAA 20 60
+CDAA 20 61
+DAAA 21 62
+DBAA 21 63
+DCAA 22 64
+DDAA 22 65
+EAAA 23 66
+EBAA 23 67
+ECAA 24 68
+EDAA 24 69
+FAAA 25 70
+FBAA 25 71
+FCAA 26 72
+FDAA 26 73
+GAAA 27 74
+GBAA 27 75
+GCAA 28 76
+GDAA 28 77
+HAAA 29 78
+HBAA 29 79
+HCAA 30 80
+HDAA 30 81
+IAAA 31 82
+IBAA 31 83
+ICAA 32 84
+IDAA 32 85
+JAAA 33 86
+JBAA 33 87
+JCAA 34 88
+JDAA 34 89
+KAAA 35 90
+KBAA 35 91
+KCAA 36 92
+KDAA 36 93
+LAAA 37 94
+LBAA 37 95
+LCAA 38 96
+LDAA 38 97
+MAAA 39 98
+MBAA 39 99
+MCAA 40 100
+MDAA 40 101
+NAAA 41 102
+NBAA 41 103
+NCAA 42 104
+NDAA 42 105
+OAAA 43 106
+OBAA 43 107
+OCAA 44 108
+ODAA 44 109
+PAAA 45 110
+PBAA 45 111
+PCAA 46 112
+PDAA 46 113
+QAAA 47 114
+QBAA 47 115
+QCAA 48 116
+QDAA 48 117
+RAAA 49 118
+RBAA 49 119
+RCAA 50 120
+RDAA 50 121
+SAAA 51 122
+SBAA 51 123
+SCAA 52 124
+SDAA 52 125
+TAAA 53 126
+TBAA 53 127
+TCAA 54 128
+TDAA 54 129
+UAAA 55 130
+UBAA 55 131
+UCAA 56 132
+UDAA 56 133
+VAAA 57 134
+VBAA 57 135
+VCAA 58 136
+VDAA 58 137
+WAAA 59 138
+WBAA 59 139
+WCAA 60 140
+XAAA 60 141
+XBAA 61 142
+XCAA 61 143
+YAAA 62 144
+YBAA 62 145
+YCAA 63 146
+ZAAA 63 147
+ZBAA 64 148
+ZCAA 64 149
+Name A A > Name A A
+Speed 15 15 > Height 50 50
+Height 50 50 > Name A A
+Name A A > Name A A
+Speed 15 15 > Speed 15 15
+Height 50 50 > Speed 15 15
+Height 50 50 > Name A A
+Height 50 50 > Name A A
+Speed 15 15 > Name A A
+Speed 15 15 > Speed 15 15
+Height 50 50 > Height 50 50
+Speed 15 15 > Height 50 50
+Height 50 50 > Name A A
+Name A A > Speed 15 15
+Height 50 50 > Name A A
+Speed 15 15 > Speed 15 15
+Name A A > Name A A
+Speed 15 15 > Height 50 50
+Name A A > Height 50 50
+Speed 15 15 > Height 50 50
+Height 50 50 > Speed 15 15
+Name A A > Height 50 50
+Height 50 50 > Speed 15 15
+Speed 15 15 > Height 50 50
+Height 50 50 > Name A A
+Speed 15 15 > Height 50 50
+Speed 15 15 > Name A A
+Speed 15 15 > Name A A
+Height 50 50 > Speed 15 15
+Height 50 50 > Speed 15 15
+Height 50 50 > Speed 15 15
+Name A A > Height 50 50
+Height 50 50 > Height 50 50
+Speed 15 15 > Speed 15 15
+Name A A > Name A A
+Name A A > Height 50 50
+Speed 15 15 > Name A A
+Name A A > Height 50 50
+Speed 15 15 > Height 50 50
+Speed 15 15 > Name A A
+Name A A > Name A A
+Name A A > Height 50 50
+Height 50 50 > Name A A
+Name A A > Name A A
+Height 50 50 > Height 50 50
+Height 50 50 > Speed 15 15
+Height 50 50 > Height 50 50
+Speed 15 15 > Name A A
+Height 50 50 > Height 50 50
+Height 50 50 > Height 50 50
+Height 50 50 > Height 50 50
+Name A A > Speed 15 15
+Name A A > Speed 15 15
+Speed 15 15 > Name A A
+Name A A > Height 50 50
+Speed 15 15 > Height 50 50
+Name A A > Height 50 50
+Name A A > Name A A
+Name A A > Height 50 50
+Name A A > Speed 15 15
+Speed 15 15 > Speed 15 15
+Height 50 50 > Name A A
+Speed 15 15 > Speed 15 15
+Height 50 50 > Height 50 50
+Height 50 50 > Speed 15 15
+Speed 15 15 > Height 50 50
+Name A A > Height 50 50
+Height 50 50 > Name A A
+Speed 15 15 > Speed 15 15
+Name A A > Name A A
+Name A A > Name A A
+Name A A > Height 50 50
+Height 50 50 > Height 50 50
+Speed 15 15 > Height 50 50
+Speed 15 15 > Name A A
+Speed 15 15 > Name A A
+Name A A > Speed 15 15
+Height 50 50 > Speed 15 15
+Height 50 50 > Name A A
+Name A A > Name A A
+Speed 15 15 > Name A A
+Height 50 50 > Height 50 50
+Name A A > Name A A
+Height 50 50 > Height 50 50
+Height 50 50 > Height 50 50
+Height 50 50 > Name A A
+Speed 15 15 > Name A A
+Name A A > Height 50 50
+Height 50 50 > Name A A
+Name A A > Name A A
+Speed 15 15 > Height 50 50
+Name A A > Speed 15 15
+Height 50 50 > Height 50 50
+Name A A > Speed 15 15
+Speed 15 15 > Name A A
+Height 50 50 > Speed 15 15
+Height 50 50 > Height 50 50
+Speed 15 15 > Name A A
+Name A A > Height 50 50
+Name A A > Name A A

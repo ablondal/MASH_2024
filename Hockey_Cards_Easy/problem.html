@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<body>
+    <h1>Hockey Cards (Easy)</h1>
+    <p>
+        Marly, an avid collector of hockey cards, decided to spend her day organizing
+        her extensive collection of $n$ cards.
+        Each card represents a different player and has three attributes,
+        <b>Name</b>, <b>Top Speed</b>, and <b>Height</b>.
+    </p>
+    <p>
+        Marly has very particular preferences for her cards, such as favoring
+        players whose names start with a certain letter over those with specific
+        height ranges.
+        The preferences are provided in the form of selection criteria,
+        where a selection can be one of:
+        <ul>
+            <li><code>Name a b</code>:
+                All players whose names start with a letter between $a$ and $b$.</li>
+            <li><code>Speed x y</code>:
+                All players with a top speed between $x$ and $y$.</li>
+            <li><code>Height x y</code>:
+                All players with a height between $x$ and $y$.</li>
+        </ul>
+        All ranges are inclusive. $a$ and $b$ here would be capital letters,
+        while $x$ and $y$ are integers.
+        It is guaranteed that $a \leq b$ (alphabetically), and $x \leq y$.
+        For instance, <code>Name A C</code> would include players
+        whose names start with <code>A</code>, <code>B</code>, or <code>C</code>.
+    </p>
+    <p>
+        Your goal is to assist Marly in ordering her cards in a pile from most
+        to least preferred, adhering to her given constraints.
+        If no valid ordering exists, tell her so.
+    </p>
+    <h2>Input</h2>
+    <p>
+        The first line of input holds two integers $n$ and $q$.
+        $n$ is the number of hockey cards that Marly has.
+        $q$ is the number of preferences.
+        The next $n$ lines each denote a hockey card, and contain a string starting
+        with a capital letter (name), and two integers, speed and height respectively.
+        All names are unique.
+    </p>
+    <p>
+        Following are $q$ lines, each denoting a preference.
+        Preferences are expressed as pairs of selections, as explained above,
+        and are seperated by a greater-than symbol $&gt;$,
+        denoting that <b>all cards</b> in the first selection are preferred over
+        <b>all cards</b> in the second selection.
+    </p>
+    <h2>Output</h2>
+    <p>
+        Output a list of names denoting the pile of cards in any order
+        satisfying Marly's preferences,
+        with her most preferred card on top.
+        If no valid ordering exists, output <br>
+        <code>your preferences are wrong</code>.
+    </p>
+    <h2>Bounds</h2>
+    <p>
+        $n \leq 1000$.<br>
+        $q \leq 1000$.<br>
+        All Speed attributes are between $15$ and $70$.<br>
+        All Height attributes are between $50$ and $220$.<br>
+    </p>
+<h3>Sample Input 1</h3>
+<pre>
+5 3
+Alice 30 100
+Bob 20 200
+Carl 40 150
+Derek 50 125
+Eve 60 175
+Name D E > Speed 20 40
+Height 125 175 > Height 100 100
+Speed 60 70 > Name A D
+</pre>
+<h3>Sample Output 1</h3>
+<pre>
+Eve
+Derek
+Bob
+Carl
+Alice
+</pre>
+<p>Note that Carl and Alice are interchangeable here!</p>
+<h3>Sample Input 2</h3>
+<pre>
+3 3
+Alice 30 100
+Bob 20 200
+Carl 40 150
+Name A A > Speed 40 40
+Height 140 160 > Name B B
+Speed 20 20 > Height 75 125
+</pre>
+<h3>Sample Output 2</h3>
+<pre>
+your preferences are wrong
+</pre>
+</body>

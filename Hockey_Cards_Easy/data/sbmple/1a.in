@@ -1,0 +1,2001 @@
+1000 1000
+AAAA 15 50
+AABA 15 50
+ABAA 15 50
+ABBA 15 50
+ACAA 15 50
+ACBA 15 50
+ADAA 15 51
+ADBA 15 51
+AEAA 15 51
+AEBA 15 51
+AFAA 15 51
+AFBA 15 51
+AGAA 15 52
+AGBA 15 52
+AHAA 15 52
+AHBA 15 52
+AIAA 15 52
+AIBA 15 52
+AJAA 16 53
+AJBA 16 53
+AKAA 16 53
+AKBA 16 53
+ALAA 16 53
+ALBA 16 53
+AMAA 16 54
+AMBA 16 54
+ANAA 16 54
+AOAA 16 54
+APAA 16 54
+AQAA 16 54
+ARAA 16 55
+ASAA 16 55
+ATAA 16 55
+AUAA 16 55
+AVAA 16 55
+AWAA 16 55
+AXAA 17 56
+AYAA 17 56
+AZAA 17 56
+BAAA 17 56
+BABA 17 56
+BBAA 17 56
+BBBA 17 57
+BCAA 17 57
+BCBA 17 57
+BDAA 17 57
+BDBA 17 57
+BEAA 17 57
+BEBA 17 58
+BFAA 17 58
+BFBA 17 58
+BGAA 17 58
+BGBA 17 58
+BHAA 17 58
+BHBA 18 59
+BIAA 18 59
+BIBA 18 59
+BJAA 18 59
+BJBA 18 59
+BKAA 18 59
+BKBA 18 60
+BLAA 18 60
+BLBA 18 60
+BMAA 18 60
+BMBA 18 60
+BNAA 18 60
+BOAA 18 61
+BPAA 18 61
+BQAA 18 61
+BRAA 18 61
+BSAA 18 61
+BTAA 18 61
+BUAA 19 62
+BVAA 19 62
+BWAA 19 62
+BXAA 19 62
+BYAA 19 62
+BZAA 19 62
+CAAA 19 63
+CABA 19 63
+CBAA 19 63
+CBBA 19 63
+CCAA 19 63
+CCBA 19 63
+CDAA 19 64
+CDBA 19 64
+CEAA 19 64
+CEBA 19 64
+CFAA 19 64
+CFBA 19 64
+CGAA 20 65
+CGBA 20 65
+CHAA 20 65
+CHBA 20 65
+CIAA 20 65
+CIBA 20 65
+CJAA 20 66
+CJBA 20 66
+CKAA 20 66
+CKBA 20 66
+CLAA 20 66
+CLBA 20 66
+CMAA 20 67
+CMBA 20 67
+CNAA 20 67
+COAA 20 67
+CPAA 20 67
+CQAA 20 67
+CRAA 21 68
+CSAA 21 68
+CTAA 21 68
+CUAA 21 68
+CVAA 21 68
+CWAA 21 68
+CXAA 21 69
+CYAA 21 69
+CZAA 21 69
+DAAA 21 69
+DABA 21 69
+DBAA 21 69
+DBBA 21 70
+DCAA 21 70
+DCBA 21 70
+DDAA 21 70
+DDBA 21 70
+DEAA 21 70
+DEBA 22 71
+DFAA 22 71
+DFBA 22 71
+DGAA 22 71
+DGBA 22 71
+DHAA 22 71
+DHBA 22 72
+DIAA 22 72
+DIBA 22 72
+DJAA 22 72
+DJBA 22 72
+DKAA 22 72
+DKBA 22 73
+DLAA 22 73
+DLBA 22 73
+DMAA 22 73
+DMBA 22 73
+DNAA 22 73
+DOAA 23 74
+DPAA 23 74
+DQAA 23 74
+DRAA 23 74
+DSAA 23 74
+DTAA 23 74
+DUAA 23 75
+DVAA 23 75
+DWAA 23 75
+DXAA 23 75
+DYAA 23 75
+DZAA 23 75
+EAAA 23 76
+EABA 23 76
+EBAA 23 76
+EBBA 23 76
+ECAA 23 76
+ECBA 23 76
+EDAA 24 77
+EDBA 24 77
+EEAA 24 77
+EEBA 24 77
+EFAA 24 77
+EFBA 24 77
+EGAA 24 78
+EGBA 24 78
+EHAA 24 78
+EHBA 24 78
+EIAA 24 78
+EIBA 24 78
+EJAA 24 79
+EJBA 24 79
+EKAA 24 79
+EKBA 24 79
+ELAA 24 79
+ELBA 24 79
+EMAA 25 80
+EMBA 25 80
+ENAA 25 80
+EOAA 25 80
+EPAA 25 80
+EQAA 25 80
+ERAA 25 81
+ESAA 25 81
+ETAA 25 81
+EUAA 25 81
+EVAA 25 81
+EWAA 25 81
+EXAA 25 82
+EYAA 25 82
+EZAA 25 82
+FAAA 25 82
+FABA 25 82
+FBAA 25 82
+FBBA 26 83
+FCAA 26 83
+FCBA 26 83
+FDAA 26 83
+FDBA 26 83
+FEAA 26 83
+FEBA 26 84
+FFAA 26 84
+FFBA 26 84
+FGAA 26 84
+FGBA 26 84
+FHAA 26 84
+FHBA 26 85
+FIAA 26 85
+FIBA 26 85
+FJAA 26 85
+FJBA 26 85
+FKAA 26 85
+FKBA 27 86
+FLAA 27 86
+FLBA 27 86
+FMAA 27 86
+FMBA 27 86
+FNAA 27 86
+FOAA 27 87
+FPAA 27 87
+FQAA 27 87
+FRAA 27 87
+FSAA 27 87
+FTAA 27 87
+FUAA 27 88
+FVAA 27 88
+FWAA 27 88
+FXAA 27 88
+FYAA 27 88
+FZAA 27 88
+GAAA 28 89
+GABA 28 89
+GBAA 28 89
+GBBA 28 89
+GCAA 28 89
+GCBA 28 89
+GDAA 28 90
+GDBA 28 90
+GEAA 28 90
+GEBA 28 90
+GFAA 28 90
+GFBA 28 90
+GGAA 28 91
+GGBA 28 91
+GHAA 28 91
+GHBA 28 91
+GIAA 28 91
+GIBA 28 91
+GJAA 29 92
+GJBA 29 92
+GKAA 29 92
+GKBA 29 92
+GLAA 29 92
+GLBA 29 92
+GMAA 29 93
+GMBA 29 93
+GNAA 29 93
+GOAA 29 93
+GPAA 29 93
+GQAA 29 93
+GRAA 29 94
+GSAA 29 94
+GTAA 29 94
+GUAA 29 94
+GVAA 29 94
+GWAA 29 94
+GXAA 30 95
+GYAA 30 95
+GZAA 30 95
+HAAA 30 95
+HABA 30 95
+HBAA 30 95
+HBBA 30 96
+HCAA 30 96
+HCBA 30 96
+HDAA 30 96
+HDBA 30 96
+HEAA 30 96
+HEBA 30 97
+HFAA 30 97
+HFBA 30 97
+HGAA 30 97
+HGBA 30 97
+HHAA 30 97
+HHBA 31 98
+HIAA 31 98
+HIBA 31 98
+HJAA 31 98
+HJBA 31 98
+HKAA 31 98
+HKBA 31 99
+HLAA 31 99
+HLBA 31 99
+HMAA 31 99
+HMBA 31 99
+HNAA 31 99
+HOAA 31 100
+HPAA 31 100
+HQAA 31 100
+HRAA 31 100
+HSAA 31 100
+HTAA 31 100
+HUAA 32 101
+HVAA 32 101
+HWAA 32 101
+HXAA 32 101
+HYAA 32 101
+HZAA 32 101
+IAAA 32 102
+IABA 32 102
+IBAA 32 102
+IBBA 32 102
+ICAA 32 102
+ICBA 32 102
+IDAA 32 103
+IDBA 32 103
+IEAA 32 103
+IEBA 32 103
+IFAA 32 103
+IFBA 32 103
+IGAA 33 104
+IGBA 33 104
+IHAA 33 104
+IHBA 33 104
+IIAA 33 104
+IIBA 33 104
+IJAA 33 105
+IJBA 33 105
+IKAA 33 105
+IKBA 33 105
+ILAA 33 105
+ILBA 33 105
+IMAA 33 106
+IMBA 33 106
+INAA 33 106
+IOAA 33 106
+IPAA 33 106
+IQAA 33 106
+IRAA 34 107
+ISAA 34 107
+ITAA 34 107
+IUAA 34 107
+IVAA 34 107
+IWAA 34 107
+IXAA 34 108
+IYAA 34 108
+IZAA 34 108
+JAAA 34 108
+JABA 34 108
+JBAA 34 108
+JBBA 34 109
+JCAA 34 109
+JCBA 34 109
+JDAA 34 109
+JDBA 34 109
+JEAA 34 109
+JEBA 35 110
+JFAA 35 110
+JFBA 35 110
+JGAA 35 110
+JGBA 35 110
+JHAA 35 110
+JHBA 35 111
+JIAA 35 111
+JIBA 35 111
+JJAA 35 111
+JJBA 35 111
+JKAA 35 111
+JKBA 35 112
+JLAA 35 112
+JLBA 35 112
+JMAA 35 112
+JMBA 35 112
+JNAA 35 112
+JOAA 36 113
+JPAA 36 113
+JQAA 36 113
+JRAA 36 113
+JSAA 36 113
+JTAA 36 113
+JUAA 36 114
+JVAA 36 114
+JWAA 36 114
+JXAA 36 114
+JYAA 36 114
+JZAA 36 114
+KAAA 36 115
+KABA 36 115
+KBAA 36 115
+KBBA 36 115
+KCAA 36 115
+KCBA 36 115
+KDAA 37 116
+KDBA 37 116
+KEAA 37 116
+KEBA 37 116
+KFAA 37 116
+KFBA 37 116
+KGAA 37 117
+KGBA 37 117
+KHAA 37 117
+KHBA 37 117
+KIAA 37 117
+KIBA 37 117
+KJAA 37 118
+KJBA 37 118
+KKAA 37 118
+KKBA 37 118
+KLAA 37 118
+KLBA 37 118
+KMAA 38 119
+KMBA 38 119
+KNAA 38 119
+KOAA 38 119
+KPAA 38 119
+KQAA 38 119
+KRAA 38 120
+KSAA 38 120
+KTAA 38 120
+KUAA 38 120
+KVAA 38 120
+KWAA 38 120
+KXAA 38 121
+KYAA 38 121
+KZAA 38 121
+LAAA 38 121
+LABA 38 121
+LBAA 38 121
+LBBA 39 122
+LCAA 39 122
+LCBA 39 122
+LDAA 39 122
+LDBA 39 122
+LEAA 39 122
+LEBA 39 123
+LFAA 39 123
+LFBA 39 123
+LGAA 39 123
+LGBA 39 123
+LHAA 39 123
+LHBA 39 124
+LIAA 39 124
+LIBA 39 124
+LJAA 39 124
+LJBA 39 124
+LKAA 39 124
+LKBA 40 125
+LLAA 40 125
+LLBA 40 125
+LMAA 40 125
+LMBA 40 125
+LNAA 40 125
+LOAA 40 126
+LPAA 40 126
+LQAA 40 126
+LRAA 40 126
+LSAA 40 126
+LTAA 40 126
+LUAA 40 127
+LVAA 40 127
+LWAA 40 127
+LXAA 40 127
+LYAA 40 127
+LZAA 40 127
+MAAA 41 128
+MABA 41 128
+MBAA 41 128
+MBBA 41 128
+MCAA 41 128
+MCBA 41 128
+MDAA 41 129
+MDBA 41 129
+MEAA 41 129
+MEBA 41 129
+MFAA 41 129
+MFBA 41 129
+MGAA 41 130
+MGBA 41 130
+MHAA 41 130
+MHBA 41 130
+MIAA 41 130
+MIBA 41 130
+MJAA 42 131
+MJBA 42 131
+MKAA 42 131
+MKBA 42 131
+MLAA 42 131
+MLBA 42 131
+MMAA 42 132
+MNAA 42 132
+MOAA 42 132
+MPAA 42 132
+MQAA 42 132
+MRAA 42 132
+MSAA 42 133
+MTAA 42 133
+MUAA 42 133
+MVAA 42 133
+MWAA 42 133
+MXAA 42 133
+MYAA 43 134
+MZAA 43 134
+NAAA 43 134
+NABA 43 134
+NBAA 43 134
+NBBA 43 134
+NCAA 43 135
+NCBA 43 135
+NDAA 43 135
+NDBA 43 135
+NEAA 43 135
+NEBA 43 135
+NFAA 43 136
+NFBA 43 136
+NGAA 43 136
+NGBA 43 136
+NHAA 43 136
+NHBA 43 136
+NIAA 44 137
+NIBA 44 137
+NJAA 44 137
+NJBA 44 137
+NKAA 44 137
+NKBA 44 137
+NLAA 44 138
+NLBA 44 138
+NMAA 44 138
+NNAA 44 138
+NOAA 44 138
+NPAA 44 138
+NQAA 44 139
+NRAA 44 139
+NSAA 44 139
+NTAA 44 139
+NUAA 44 139
+NVAA 44 139
+NWAA 45 140
+NXAA 45 140
+NYAA 45 140
+NZAA 45 140
+OAAA 45 140
+OABA 45 140
+OBAA 45 141
+OBBA 45 141
+OCAA 45 141
+OCBA 45 141
+ODAA 45 141
+ODBA 45 141
+OEAA 45 142
+OEBA 45 142
+OFAA 45 142
+OFBA 45 142
+OGAA 45 142
+OGBA 45 142
+OHAA 46 143
+OHBA 46 143
+OIAA 46 143
+OIBA 46 143
+OJAA 46 143
+OJBA 46 143
+OKAA 46 144
+OKBA 46 144
+OLAA 46 144
+OLBA 46 144
+OMAA 46 144
+ONAA 46 144
+OOAA 46 145
+OPAA 46 145
+OQAA 46 145
+ORAA 46 145
+OSAA 46 145
+OTAA 46 145
+OUAA 47 146
+OVAA 47 146
+OWAA 47 146
+OXAA 47 146
+OYAA 47 146
+OZAA 47 146
+PAAA 47 147
+PABA 47 147
+PBAA 47 147
+PBBA 47 147
+PCAA 47 147
+PCBA 47 147
+PDAA 47 148
+PDBA 47 148
+PEAA 47 148
+PEBA 47 148
+PFAA 47 148
+PFBA 47 148
+PGAA 48 149
+PGBA 48 149
+PHAA 48 149
+PHBA 48 149
+PIAA 48 149
+PIBA 48 149
+PJAA 48 150
+PJBA 48 150
+PKAA 48 150
+PKBA 48 150
+PLAA 48 150
+PLBA 48 150
+PMAA 48 151
+PNAA 48 151
+POAA 48 151
+PPAA 48 151
+PQAA 48 151
+PRAA 48 151
+PSAA 49 152
+PTAA 49 152
+PUAA 49 152
+PVAA 49 152
+PWAA 49 152
+PXAA 49 152
+PYAA 49 153
+PZAA 49 153
+QAAA 49 153
+QABA 49 153
+QBAA 49 153
+QBBA 49 153
+QCAA 49 154
+QCBA 49 154
+QDAA 49 154
+QDBA 49 154
+QEAA 49 154
+QEBA 49 154
+QFAA 50 155
+QFBA 50 155
+QGAA 50 155
+QGBA 50 155
+QHAA 50 155
+QHBA 50 155
+QIAA 50 156
+QIBA 50 156
+QJAA 50 156
+QJBA 50 156
+QKAA 50 156
+QKBA 50 156
+QLAA 50 157
+QLBA 50 157
+QMAA 50 157
+QNAA 50 157
+QOAA 50 157
+QPAA 50 157
+QQAA 51 158
+QRAA 51 158
+QSAA 51 158
+QTAA 51 158
+QUAA 51 158
+QVAA 51 158
+QWAA 51 159
+QXAA 51 159
+QYAA 51 159
+QZAA 51 159
+RAAA 51 159
+RABA 51 159
+RBAA 51 160
+RBBA 51 160
+RCAA 51 160
+RCBA 51 160
+RDAA 51 160
+RDBA 51 160
+REAA 52 161
+REBA 52 161
+RFAA 52 161
+RFBA 52 161
+RGAA 52 161
+RGBA 52 161
+RHAA 52 162
+RHBA 52 162
+RIAA 52 162
+RIBA 52 162
+RJAA 52 162
+RJBA 52 162
+RKAA 52 163
+RKBA 52 163
+RLAA 52 163
+RLBA 52 163
+RMAA 52 163
+RNAA 52 163
+ROAA 53 164
+RPAA 53 164
+RQAA 53 164
+RRAA 53 164
+RSAA 53 164
+RTAA 53 164
+RUAA 53 165
+RVAA 53 165
+RWAA 53 165
+RXAA 53 165
+RYAA 53 165
+RZAA 53 165
+SAAA 53 166
+SABA 53 166
+SBAA 53 166
+SBBA 53 166
+SCAA 53 166
+SCBA 53 166
+SDAA 54 167
+SDBA 54 167
+SEAA 54 167
+SEBA 54 167
+SFAA 54 167
+SFBA 54 167
+SGAA 54 168
+SGBA 54 168
+SHAA 54 168
+SHBA 54 168
+SIAA 54 168
+SIBA 54 168
+SJAA 54 169
+SJBA 54 169
+SKAA 54 169
+SKBA 54 169
+SLAA 54 169
+SLBA 54 169
+SMAA 55 170
+SNAA 55 170
+SOAA 55 170
+SPAA 55 170
+SQAA 55 170
+SRAA 55 170
+SSAA 55 171
+STAA 55 171
+SUAA 55 171
+SVAA 55 171
+SWAA 55 171
+SXAA 55 171
+SYAA 55 172
+SZAA 55 172
+TAAA 55 172
+TABA 55 172
+TBAA 55 172
+TBBA 55 172
+TCAA 56 173
+TCBA 56 173
+TDAA 56 173
+TDBA 56 173
+TEAA 56 173
+TEBA 56 173
+TFAA 56 174
+TFBA 56 174
+TGAA 56 174
+TGBA 56 174
+THAA 56 174
+THBA 56 174
+TIAA 56 175
+TIBA 56 175
+TJAA 56 175
+TJBA 56 175
+TKAA 56 175
+TKBA 56 175
+TLAA 57 176
+TLBA 57 176
+TMAA 57 176
+TNAA 57 176
+TOAA 57 176
+TPAA 57 176
+TQAA 57 177
+TRAA 57 177
+TSAA 57 177
+TTAA 57 177
+TUAA 57 177
+TVAA 57 177
+TWAA 57 178
+TXAA 57 178
+TYAA 57 178
+TZAA 57 178
+UAAA 57 178
+UABA 57 178
+UBAA 58 179
+UBBA 58 179
+UCAA 58 179
+UCBA 58 179
+UDAA 58 179
+UDBA 58 179
+UEAA 58 180
+UEBA 58 180
+UFAA 58 180
+UFBA 58 180
+UGAA 58 180
+UGBA 58 180
+UHAA 58 181
+UHBA 58 181
+UIAA 58 181
+UIBA 58 181
+UJAA 58 181
+UJBA 58 181
+UKAA 59 182
+UKBA 59 182
+ULAA 59 182
+ULBA 59 182
+UMAA 59 182
+UNAA 59 182
+UOAA 59 183
+UPAA 59 183
+UQAA 59 183
+URAA 59 183
+USAA 59 183
+UTAA 59 183
+UUAA 59 184
+UVAA 59 184
+UWAA 59 184
+UXAA 59 184
+UYAA 59 184
+UZAA 59 184
+VAAA 60 185
+VABA 60 185
+VBAA 60 185
+VBBA 60 185
+VCAA 60 185
+VCBA 60 185
+VDAA 60 186
+VDBA 60 186
+VEAA 60 186
+VEBA 60 186
+VFAA 60 186
+VFBA 60 186
+VGAA 60 187
+VGBA 60 187
+VHAA 60 187
+VHBA 60 187
+VIAA 60 187
+VIBA 60 187
+VJAA 61 188
+VJBA 61 188
+VKAA 61 188
+VKBA 61 188
+VLAA 61 188
+VLBA 61 188
+VMAA 61 189
+VNAA 61 189
+VOAA 61 189
+VPAA 61 189
+VQAA 61 189
+VRAA 61 189
+VSAA 61 190
+VTAA 61 190
+VUAA 61 190
+VVAA 61 190
+VWAA 61 190
+VXAA 61 190
+VYAA 62 191
+VZAA 62 191
+WAAA 62 191
+WABA 62 191
+WBAA 62 191
+WBBA 62 191
+WCAA 62 192
+WCBA 62 192
+WDAA 62 192
+WDBA 62 192
+WEAA 62 192
+WEBA 62 192
+WFAA 62 193
+WFBA 62 193
+WGAA 62 193
+WGBA 62 193
+WHAA 62 193
+WHBA 62 193
+WIAA 63 194
+WIBA 63 194
+WJAA 63 194
+WJBA 63 194
+WKAA 63 194
+WKBA 63 194
+WLAA 63 195
+WLBA 63 195
+WMAA 63 195
+WNAA 63 195
+WOAA 63 195
+WPAA 63 195
+WQAA 63 196
+WRAA 63 196
+WSAA 63 196
+WTAA 63 196
+WUAA 63 196
+WVAA 63 196
+WWAA 64 197
+WXAA 64 197
+WYAA 64 197
+WZAA 64 197
+XAAA 64 197
+XABA 64 197
+XBAA 64 198
+XBBA 64 198
+XCAA 64 198
+XCBA 64 198
+XDAA 64 198
+XDBA 64 198
+XEAA 64 199
+XEBA 64 199
+XFAA 64 199
+XFBA 64 199
+XGAA 64 199
+XGBA 64 199
+XHAA 65 200
+XHBA 65 200
+XIAA 65 200
+XIBA 65 200
+XJAA 65 200
+XJBA 65 200
+XKAA 65 201
+XKBA 65 201
+XLAA 65 201
+XLBA 65 201
+XMAA 65 201
+XNAA 65 201
+XOAA 65 202
+XPAA 65 202
+XQAA 65 202
+XRAA 65 202
+XSAA 65 202
+XTAA 65 202
+XUAA 66 203
+XVAA 66 203
+XWAA 66 203
+XXAA 66 203
+XYAA 66 203
+XZAA 66 203
+YAAA 66 204
+YABA 66 204
+YBAA 66 204
+YBBA 66 204
+YCAA 66 204
+YCBA 66 204
+YDAA 66 205
+YDBA 66 205
+YEAA 66 205
+YEBA 66 205
+YFAA 66 205
+YFBA 66 205
+YGAA 67 206
+YGBA 67 206
+YHAA 67 206
+YHBA 67 206
+YIAA 67 206
+YIBA 67 206
+YJAA 67 207
+YJBA 67 207
+YKAA 67 207
+YKBA 67 207
+YLAA 67 207
+YLBA 67 207
+YMAA 67 208
+YNAA 67 208
+YOAA 67 208
+YPAA 67 208
+YQAA 67 208
+YRAA 67 208
+YSAA 68 209
+YTAA 68 209
+YUAA 68 209
+YVAA 68 209
+YWAA 68 209
+YXAA 68 209
+YYAA 68 210
+YZAA 68 210
+ZAAA 68 210
+ZABA 68 210
+ZBAA 68 210
+ZBBA 68 210
+ZCAA 68 211
+ZCBA 68 211
+ZDAA 68 211
+ZDBA 68 211
+ZEAA 68 211
+ZEBA 68 211
+ZFAA 69 212
+ZFBA 69 212
+ZGAA 69 212
+ZGBA 69 212
+ZHAA 69 212
+ZHBA 69 212
+ZIAA 69 213
+ZIBA 69 213
+ZJAA 69 213
+ZJBA 69 213
+ZKAA 69 213
+ZKBA 69 213
+ZLAA 69 214
+ZLBA 69 214
+ZMAA 69 214
+ZNAA 69 214
+ZOAA 69 214
+ZPAA 69 214
+ZQAA 70 215
+ZRAA 70 215
+ZSAA 70 215
+ZTAA 70 215
+ZUAA 70 215
+ZVAA 70 215
+ZWAA 70 216
+ZXAA 70 216
+ZYAA 70 216
+ZZAA 70 216
+Height 50 55 > Speed 49 67
+Height 53 57 > Height 164 193
+Speed 16 27 > Name K V
+Height 52 140 > Name S U
+Name C G > Speed 47 62
+Speed 43 55 > Name W Z
+Height 60 157 > Height 171 202
+Speed 37 39 > Speed 47 59
+Speed 28 31 > Height 112 186
+Speed 17 23 > Name J M
+Speed 29 32 > Speed 42 59
+Speed 37 49 > Height 171 215
+Speed 29 35 > Name S U
+Speed 17 38 > Speed 48 67
+Speed 27 28 > Name O R
+Speed 25 25 > Height 104 137
+Speed 30 44 > Speed 58 63
+Speed 31 44 > Height 162 167
+Height 57 61 > Name I X
+Speed 24 40 > Height 161 200
+Speed 33 45 > Name S U
+Height 82 117 > Name R V
+Speed 19 33 > Name L Q
+Speed 35 44 > Height 154 196
+Name G K > Speed 42 44
+Name A D > Name S T
+Height 51 104 > Name N Q
+Speed 15 31 > Name M T
+Speed 40 47 > Speed 53 56
+Name A H > Height 140 162
+Height 85 122 > Name S U
+Height 86 131 > Speed 68 70
+Speed 42 45 > Speed 52 60
+Height 58 80 > Height 95 117
+Speed 26 41 > Height 165 192
+Speed 20 45 > Name R U
+Height 55 141 > Name U V
+Height 122 148 > Height 162 173
+Speed 24 34 > Name M V
+Name B G > Height 122 184
+Height 70 75 > Speed 44 64
+Height 64 90 > Speed 60 66
+Speed 34 45 > Height 175 194
+Name D O > Name V Z
+Name H H > Name W Y
+Height 66 126 > Height 153 203
+Speed 37 42 > Speed 49 65
+Name N T > Speed 64 66
+Height 71 99 > Speed 59 69
+Name B D > Height 159 163
+Height 62 113 > Speed 65 65
+Name A N > Height 162 207
+Speed 20 24 > Name G U
+Height 54 133 > Speed 62 66
+Name L T > Speed 64 64
+Height 75 89 > Name I Q
+Name A A > Speed 62 64
+Height 56 91 > Height 131 147
+Name B C > Speed 32 34
+Name E G > Height 123 157
+Name A P > Name X Z
+Height 50 60 > Name N P
+Speed 24 58 > Speed 64 65
+Height 56 104 > Name M V
+Speed 24 46 > Height 157 197
+Speed 40 56 > Height 192 194
+Speed 30 31 > Height 128 170
+Height 92 131 > Speed 49 56
+Name F I > Name L W
+Height 142 147 > Height 173 214
+Speed 16 22 > Name T Y
+Speed 17 24 > Name I L
+Speed 16 30 > Speed 39 60
+Height 128 155 > Speed 61 64
+Height 116 131 > Height 153 178
+Speed 16 33 > Height 159 180
+Height 76 125 > Height 175 178
+Height 74 93 > Height 120 199
+Speed 43 54 > Name W W
+Height 74 136 > Speed 58 64
+Height 82 89 > Name W Y
+Height 86 97 > Name V X
+Height 71 89 > Height 129 192
+Name B B > Height 117 173
+Speed 17 17 > Height 90 168
+Height 119 151 > Speed 54 59
+Height 109 148 > Height 182 202
+Name D F > Height 186 190
+Height 84 90 > Name U W
+Name C E > Speed 30 66
+Name K L > Height 138 179
+Height 109 114 > Name M U
+Name D H > Speed 45 45
+Speed 18 22 > Height 100 200
+Name C O > Speed 64 69
+Height 51 76 > Speed 29 46
+Speed 34 43 > Height 188 202
+Height 118 126 > Name O O
+Name A Q > Name W X
+Name K R > Name Y Z
+Speed 39 40 > Speed 52 63
+Speed 25 44 > Height 160 171
+Speed 17 47 > Height 171 212
+Name I J > Speed 56 61
+Speed 29 34 > Speed 56 65
+Name A C > Name W Z
+Height 128 140 > Height 160 172
+Name D H > Name P S
+Height 82 159 > Height 191 201
+Height 132 143 > Name W Z
+Speed 19 25 > Name T U
+Speed 56 56 > Speed 63 67
+Name A R > Height 200 201
+Speed 22 30 > Name S Y
+Speed 22 37 > Speed 58 64
+Speed 16 27 > Name V W
+Height 62 67 > Speed 56 61
+Speed 22 50 > Height 175 175
+Name F H > Height 117 205
+Height 51 57 > Name E P
+Height 120 153 > Height 174 185
+Name C M > Name X Y
+Name J S > Name W Y
+Speed 18 21 > Name F X
+Speed 28 30 > Speed 44 46
+Name E F > Name K V
+Speed 16 21 > Speed 34 68
+Name B G > Speed 37 39
+Height 82 155 > Speed 54 55
+Speed 20 29 > Height 108 152
+Height 99 120 > Height 159 204
+Speed 23 23 > Speed 34 62
+Speed 31 37 > Name N S
+Name A C > Height 103 192
+Height 65 78 > Height 182 211
+Speed 19 20 > Height 88 155
+Name M Q > Name V V
+Speed 17 42 > Height 157 175
+Height 77 151 > Height 169 213
+Name E F > Speed 46 46
+Height 147 148 > Height 190 209
+Speed 16 40 > Speed 45 68
+Speed 16 24 > Speed 51 63
+Name L L > Name R V
+Height 124 136 > Name Z Z
+Height 73 133 > Height 183 191
+Speed 21 24 > Name Q V
+Name H N > Name Q U
+Name P S > Speed 63 69
+Speed 37 38 > Speed 59 69
+Name A H > Speed 46 66
+Speed 17 32 > Speed 37 56
+Height 66 95 > Height 141 175
+Name I O > Speed 57 69
+Speed 27 34 > Speed 53 59
+Speed 18 40 > Speed 54 58
+Speed 36 49 > Height 174 215
+Speed 16 27 > Name K T
+Name J O > Speed 62 67
+Speed 16 32 > Speed 41 68
+Name E E > Height 113 119
+Name F J > Name T X
+Speed 31 36 > Name N R
+Height 59 104 > Speed 49 49
+Height 58 66 > Name M Z
+Name K N > Name Q X
+Height 126 163 > Height 203 205
+Name F I > Height 175 200
+Name D U > Speed 66 69
+Speed 18 28 > Speed 60 68
+Speed 22 38 > Speed 46 46
+Speed 44 58 > Name X Z
+Speed 15 39 > Name N X
+Speed 16 25 > Height 97 126
+Height 107 171 > Speed 63 69
+Name A D > Height 148 176
+Height 64 121 > Speed 47 54
+Name G O > Name S Y
+Speed 32 39 > Height 143 146
+Speed 18 21 > Name H J
+Name C R > Name W Y
+Name C D > Speed 36 38
+Name F P > Name S Z
+Name B E > Name T V
+Name C D > Name I P
+Speed 21 36 > Height 201 203
+Height 60 114 > Height 175 199
+Height 75 105 > Height 126 130
+Speed 40 43 > Name V X
+Name A L > Name U Y
+Speed 35 42 > Height 154 187
+Name E H > Speed 56 67
+Name A D > Name K O
+Name A K > Speed 51 64
+Name K O > Speed 61 69
+Height 54 66 > Name I P
+Height 85 137 > Speed 52 58
+Speed 25 26 > Speed 40 59
+Name G N > Speed 49 67
+Name A H > Height 158 203
+Name D E > Speed 52 62
+Height 69 87 > Height 157 196
+Speed 34 45 > Name V W
+Name F L > Name S V
+Speed 21 22 > Name J Q
+Speed 25 40 > Speed 54 57
+Speed 32 56 > Height 193 196
+Speed 19 50 > Height 188 210
+Height 142 153 > Speed 63 66
+Height 74 127 > Speed 48 54
+Height 99 110 > Name M S
+Speed 54 59 > Height 207 210
+Speed 38 45 > Name S V
+Height 60 97 > Name Q Y
+Name G M > Speed 60 69
+Speed 24 31 > Height 156 210
+Name D H > Height 125 152
+Name D G > Speed 57 60
+Height 72 94 > Height 153 172
+Name D D > Name F O
+Name G K > Height 201 204
+Height 102 128 > Speed 62 70
+Height 77 81 > Name I Y
+Name F I > Speed 58 67
+Name C I > Speed 40 52
+Height 51 93 > Speed 36 61
+Speed 20 22 > Speed 33 49
+Name A S > Name V V
+Height 68 74 > Name X Y
+Name H I > Name P P
+Speed 15 20 > Height 113 211
+Speed 21 23 > Name L P
+Height 61 76 > Speed 58 61
+Height 113 118 > Name U W
+Speed 15 20 > Height 169 194
+Name C F > Name N N
+Name K L > Speed 55 55
+Name M M > Name O Z
+Speed 15 29 > Name M R
+Speed 34 34 > Name P S
+Speed 18 30 > Name T V
+Speed 22 25 > Height 117 173
+Speed 33 35 > Speed 49 55
+Name D I > Height 124 176
+Name F H > Name P X
+Name Q R > Name X Z
+Height 62 99 > Speed 57 62
+Height 98 151 > Height 188 190
+Speed 20 38 > Name O Q
+Speed 17 21 > Height 124 214
+Speed 16 35 > Height 126 171
+Name F K > Speed 53 64
+Height 93 97 > Name L T
+Speed 30 38 > Name P R
+Name A H > Name R W
+Name Q V > Height 207 216
+Height 92 122 > Speed 44 61
+Name A G > Height 120 198
+Speed 24 39 > Height 199 215
+Speed 16 40 > Speed 50 52
+Speed 26 28 > Speed 35 66
+Name J M > Height 210 216
+Name B U > Speed 66 68
+Height 67 117 > Height 141 160
+Speed 23 50 > Height 204 213
+Height 58 58 > Height 168 206
+Height 51 108 > Name L T
+Speed 20 27 > Name W X
+Speed 15 29 > Speed 54 68
+Name B N > Speed 50 63
+Speed 17 18 > Name P W
+Speed 48 52 > Name U Z
+Speed 20 35 > Height 144 178
+Speed 16 28 > Speed 61 62
+Name H L > Height 141 164
+Height 110 150 > Speed 63 68
+Speed 16 25 > Height 119 204
+Name D Q > Name V Y
+Speed 29 39 > Height 153 212
+Name B C > Name N R
+Height 79 140 > Name T T
+Name A K > Name M Y
+Name B J > Height 125 189
+Name C D > Name L X
+Speed 33 34 > Height 152 155
+Height 64 153 > Speed 59 69
+Name L Q > Height 176 191
+Height 89 130 > Height 156 169
+Height 66 85 > Height 187 201
+Name G G > Speed 44 54
+Height 52 121 > Name P Z
+Name A D > Speed 42 55
+Speed 16 42 > Speed 49 59
+Height 109 115 > Name S X
+Speed 21 31 > Height 176 177
+Name A B > Name N O
+Name L M > Name O W
+Name A F > Name S U
+Height 79 143 > Height 157 211
+Name G I > Height 153 189
+Speed 24 38 > Name S X
+Height 73 101 > Height 158 170
+Name J M > Speed 66 68
+Height 59 78 > Height 205 215
+Name H P > Name U Y
+Speed 17 51 > Speed 56 65
+Name C O > Speed 54 56
+Speed 22 45 > Height 198 203
+Name C E > Name K R
+Height 93 139 > Height 189 192
+Name A D > Height 94 125
+Speed 17 18 > Height 75 131
+Speed 22 30 > Name T X
+Speed 26 33 > Name R X
+Height 88 123 > Speed 49 55
+Name O O > Name Q Z
+Name A M > Height 154 213
+Name A L > Speed 53 68
+Speed 19 43 > Height 170 174
+Speed 29 35 > Name P T
+Speed 16 26 > Name L W
+Name D H > Height 125 181
+Name D M > Speed 60 70
+Height 64 111 > Speed 50 65
+Name E F > Height 159 169
+Height 81 137 > Name U Y
+Name D D > Name R R
+Height 64 83 > Speed 31 36
+Name A K > Speed 56 67
+Name G I > Speed 48 55
+Height 89 118 > Height 132 158
+Speed 15 33 > Height 192 192
+Speed 46 60 > Name X X
+Speed 23 31 > Name M V
+Name C J > Height 172 173
+Name B F > Speed 40 66
+Height 65 77 > Height 95 206
+Speed 23 37 > Height 139 167
+Name H M > Height 145 159
+Speed 19 34 > Height 125 188
+Name C R > Height 190 202
+Name E S > Name U X
+Height 56 94 > Height 162 189
+Height 61 93 > Height 117 197
+Height 95 145 > Height 180 210
+Name B G > Name O V
+Speed 36 45 > Height 176 184
+Speed 21 26 > Height 104 148
+Name E P > Height 164 174
+Speed 30 46 > Speed 57 65
+Name D D > Speed 31 53
+Height 72 146 > Name T V
+Name A F > Height 104 114
+Height 109 162 > Speed 65 67
+Height 124 139 > Speed 58 68
+Height 155 157 > Speed 56 58
+Speed 17 20 > Height 180 194
+Name F U > Speed 68 70
+Height 50 122 > Name N P
+Height 69 85 > Height 109 189
+Name H L > Name P Y
+Name E L > Speed 45 45
+Height 52 107 > Height 157 209
+Name L M > Speed 52 65
+Name E F > Speed 40 52
+Name B C > Name T X
+Name B B > Height 141 160
+Height 55 89 > Name Q X
+Height 60 66 > Speed 60 69
+Speed 17 25 > Height 98 134
+Speed 24 37 > Height 186 206
+Height 66 111 > Name W W
+Speed 22 28 > Name U W
+Height 91 111 > Height 135 151
+Speed 15 44 > Speed 61 61
+Name M P > Speed 53 54
+Speed 18 18 > Height 87 159
+Speed 15 16 > Speed 32 44
+Name C D > Name T X
+Speed 47 47 > Speed 65 68
+Name A S > Height 195 195
+Height 74 77 > Name N X
+Name B M > Height 151 152
+Name C N > Speed 53 54
+Name A B > Speed 26 43
+Speed 22 26 > Speed 68 68
+Name C K > Speed 45 53
+Name C M > Height 167 184
+Speed 24 27 > Name N X
+Height 93 126 > Speed 45 57
+Height 58 107 > Name N Z
+Speed 28 43 > Speed 55 56
+Name K R > Height 203 211
+Speed 16 57 > Height 203 216
+Name A B > Speed 28 64
+Height 71 111 > Speed 44 61
+Speed 21 28 > Height 130 203
+Speed 19 24 > Height 115 179
+Speed 16 28 > Name J O
+Speed 43 47 > Height 187 202
+Height 132 146 > Height 172 197
+Speed 42 46 > Height 188 212
+Speed 35 46 > Height 162 180
+Speed 23 35 > Name M N
+Height 52 76 > Speed 28 55
+Name D E > Name M R
+Name F J > Height 162 196
+Height 61 66 > Name S S
+Name L N > Height 182 211
+Speed 15 43 > Name T X
+Name F K > Name T T
+Height 59 93 > Name J Z
+Speed 38 60 > Height 200 215
+Height 71 78 > Speed 31 45
+Height 112 124 > Name Y Y
+Height 103 152 > Height 176 195
+Height 80 117 > Speed 43 45
+Height 57 96 > Speed 36 52
+Speed 40 52 > Height 184 215
+Speed 19 43 > Name P Q
+Name F O > Speed 50 55
+Speed 27 45 > Speed 57 70
+Height 114 148 > Name S W
+Name A F > Height 134 171
+Name F O > Name Q T
+Height 56 83 > Name J R
+Name B H > Name N R
+Speed 19 20 > Height 132 184
+Name I J > Name M O
+Speed 26 26 > Name R W
+Height 87 101 > Height 145 156
+Height 97 119 > Name W X
+Height 62 96 > Height 162 167
+Name I K > Name V W
+Speed 16 50 > Height 180 188
+Speed 16 18 > Speed 26 55
+Speed 26 36 > Name M T
+Speed 31 48 > Speed 62 63
+Height 60 155 > Speed 56 62
+Speed 21 31 > Height 112 131
+Height 77 146 > Speed 56 59
+Speed 15 36 > Speed 44 59
+Speed 20 49 > Name S Z
+Name K N > Name P X
+Speed 26 30 > Height 128 142
+Height 62 109 > Speed 60 67
+Height 61 140 > Speed 57 57
+Height 113 130 > Height 208 213
+Speed 26 34 > Name O Z
+Height 68 92 > Name O X
+Name D H > Name P Y
+Speed 16 21 > Name T X
+Speed 46 55 > Speed 63 65
+Name L L > Speed 49 69
+Height 94 118 > Name O P
+Speed 25 26 > Name T V
+Speed 15 34 > Height 144 174
+Name F R > Speed 61 64
+Height 58 65 > Height 122 175
+Name J J > Speed 43 62
+Name D P > Name V Y
+Height 78 145 > Height 175 175
+Height 57 80 > Height 99 133
+Height 61 150 > Height 175 190
+Height 53 82 > Name R Y
+Height 77 128 > Name P T
+Height 79 118 > Name Z Z
+Name D F > Height 125 150
+Height 54 157 > Height 194 198
+Height 74 156 > Height 202 204
+Speed 17 21 > Speed 32 56
+Speed 27 36 > Name N Y
+Speed 17 44 > Speed 67 68
+Speed 15 26 > Height 188 213
+Name N O > Height 183 191
+Name J O > Name S W
+Name G P > Name S W
+Name F K > Speed 45 69
+Name E N > Name P Q
+Name B D > Height 103 154
+Name C C > Speed 38 45
+Height 56 80 > Height 139 211
+Name C C > Speed 53 67
+Speed 22 38 > Name R Y
+Speed 19 22 > Speed 28 41
+Speed 41 54 > Speed 62 67
+Speed 18 40 > Name Q Y
+Height 63 72 > Speed 60 64
+Height 98 117 > Name S S
+Name A D > Speed 56 59
+Name N O > Name Q U
+Speed 32 35 > Height 140 206
+Height 86 171 > Height 187 202
+Name A N > Speed 63 66
+Height 51 58 > Name Q Z
+Height 77 181 > Name X Y
+Speed 21 41 > Height 171 212
+Name L R > Name U U
+Speed 27 43 > Speed 51 53
+Name D E > Speed 39 66
+Name I P > Height 171 194
+Name D I > Height 137 212
+Speed 16 18 > Height 80 102
+Name G O > Name T Z
+Height 126 181 > Speed 63 65
+Speed 16 34 > Height 127 135
+Height 66 81 > Name L S
+Name D F > Name J V
+Name B L > Height 152 200
+Height 64 107 > Name S U
+Speed 20 37 > Height 187 214
+Height 68 174 > Speed 67 69
+Name F J > Height 127 209
+Name J M > Name P V
+Speed 17 36 > Speed 49 67
+Name E K > Height 161 211
+Height 74 76 > Name U Z
+Speed 24 31 > Name Q T
+Height 71 80 > Height 114 136
+Speed 36 48 > Height 171 214
+Height 52 58 > Speed 50 67
+Height 73 83 > Speed 44 50
+Name O S > Speed 64 67
+Name G O > Height 177 207
+Name D T > Speed 66 67
+Speed 15 30 > Height 176 194
+Name A M > Name P V
+Height 57 65 > Speed 25 27
+Height 129 162 > Height 203 215
+Speed 17 22 > Name M W
+Height 53 116 > Name Q R
+Name D F > Height 104 105
+Height 80 87 > Height 115 173
+Speed 28 37 > Name P Y
+Name D M > Speed 62 67
+Speed 31 31 > Speed 52 60
+Height 55 58 > Height 78 91
+Name B H > Speed 36 62
+Height 56 68 > Height 94 126
+Speed 25 40 > Speed 56 68
+Height 70 91 > Height 119 185
+Name F J > Speed 43 54
+Speed 39 42 > Speed 63 66
+Height 111 144 > Name R S
+Speed 18 28 > Height 124 152
+Name H M > Height 157 199
+Height 74 80 > Name N R
+Speed 25 27 > Name W Y
+Speed 22 34 > Speed 44 65
+Speed 15 19 > Speed 41 70
+Height 126 127 > Name Q Y
+Height 64 101 > Height 173 189
+Speed 36 47 > Speed 58 58
+Height 137 162 > Height 176 198
+Speed 17 31 > Speed 36 63
+Name H N > Height 190 198
+Speed 21 22 > Speed 52 64
+Name D E > Speed 34 54
+Name O W > Height 211 212
+Name D K > Name M T
+Name H N > Speed 54 65
+Name D J > Name P U
+Speed 28 51 > Name U X
+Speed 28 42 > Height 153 192
+Name H M > Speed 49 53
+Speed 20 40 > Name S X
+Name A E > Speed 50 69
+Name F J > Speed 51 62
+Name G G > Height 132 179
+Speed 16 50 > Speed 65 68
+Speed 28 28 > Speed 47 69
+Height 67 155 > Name S U
+Speed 39 40 > Name R Z
+Speed 21 40 > Height 167 205
+Speed 16 18 > Name Q Y
+Name E K > Name N P
+Speed 17 26 > Height 114 135
+Name C F > Name O V
+Height 68 112 > Speed 40 47
+Name A C > Name F J
+Speed 29 33 > Speed 38 54
+Speed 15 21 > Name J Y
+Height 55 61 > Name O X
+Speed 24 26 > Name R X
+Height 112 154 > Name T W
+Name D E > Speed 55 59
+Name G L > Speed 51 67
+Speed 21 25 > Speed 40 52
+Speed 24 37 > Height 168 203
+Speed 15 26 > Height 104 114
+Speed 20 32 > Speed 56 69
+Speed 21 25 > Speed 46 58
+Name J L > Height 208 213
+Height 72 96 > Height 121 141
+Speed 20 35 > Height 126 194
+Name E N > Name P Y
+Name K O > Height 202 205
+Name D E > Name G N
+Name D O > Speed 55 57
+Height 56 58 > Name J M
+Name E F > Speed 45 53
+Height 75 98 > Speed 43 69
+Name C K > Height 186 213
+Speed 16 29 > Name S X
+Height 73 87 > Name P X
+Height 60 160 > Name T Y
+Speed 24 40 > Speed 45 54
+Speed 29 30 > Name N S
+Name C E > Height 177 204
+Speed 17 18 > Height 117 124
+Speed 29 39 > Name S V
+Speed 16 19 > Name K W
+Height 92 98 > Height 126 170
+Height 94 151 > Speed 53 64
+Name B O > Speed 53 55
+Height 57 67 > Speed 46 58
+Height 124 153 > Speed 54 59
+Speed 18 27 > Height 149 171
+Speed 15 41 > Name S Y
+Name B M > Height 187 187
+Name A B > Name K Z
+Name B D > Name W Z
+Name G H > Speed 44 70
+Name A O > Speed 59 63
+Name E J > Name S X
+Speed 43 53 > Speed 61 67
+Height 63 155 > Height 180 189
+Name G I > Name K T
+Name D G > Speed 44 65
+Speed 27 31 > Speed 42 68
+Height 87 107 > Height 130 152
+Name B I > Speed 44 53
+Height 90 120 > Name N T
+Height 115 129 > Name X Y
+Height 84 97 > Name Q S
+Height 52 104 > Name Q T
+Speed 17 33 > Name Q T
+Speed 31 33 > Height 144 165
+Name F K > Height 155 198
+Speed 15 18 > Height 99 136
+Speed 27 48 > Height 195 208
+Height 56 112 > Speed 59 64
+Speed 16 26 > Speed 35 54
+Speed 23 25 > Name U V
+Name A A > Name J N
+Height 139 166 > Name W Z
+Height 60 76 > Height 155 166
+Name D E > Speed 47 67
+Height 56 89 > Name S X
+Height 66 118 > Height 132 134
+Height 52 95 > Height 141 178
+Name D P > Speed 57 66
+Name E K > Speed 61 64
+Name B E > Height 99 193
+Height 92 105 > Height 145 205
+Name D O > Height 158 181
+Name B D > Name P Q
+Name B J > Height 178 199
+Speed 31 39 > Speed 48 51
+Height 113 178 > Height 210 216
+Speed 21 23 > Height 171 178
+Name I K > Name O T
+Speed 24 41 > Height 143 157
+Height 83 100 > Height 140 202
+Speed 34 37 > Name N Y
+Height 118 150 > Height 174 207
+Speed 25 26 > Height 162 192
+Name B Q > Height 203 205
+Height 52 100 > Name L X
+Name J S > Speed 62 62
+Speed 15 34 > Speed 43 44
+Speed 15 35 > Name U X
+Name A G > Speed 63 64
+Name C E > Height 168 207
+Name E N > Height 163 185
+Name N R > Height 212 214
+Name F H > Speed 34 49
+Height 50 62 > Name E S
+Name L Q > Height 171 198
+Speed 24 33 > Speed 37 59
+Height 51 103 > Height 152 211
+Name G I > Speed 60 67
+Speed 17 19 > Name J Q
+Speed 36 41 > Name W Y
+Height 80 101 > Name K M
+Speed 23 44 > Name Q V
+Height 72 77 > Name L Y
+Speed 15 29 > Speed 55 69
+Speed 32 36 > Name M Q
+Height 80 84 > Name I V
+Name F G > Speed 50 51
+Name E R > Speed 66 68
+Name D H > Name Q Q
+Height 133 134 > Speed 61 67
+Speed 17 19 > Speed 28 44
+Height 78 88 > Name K M
+Height 117 124 > Height 158 170
+Name C E > Name U V
+Name H K > Name M M
+Speed 34 34 > Height 169 191
+Name F I > Speed 63 70
+Speed 40 41 > Speed 47 60
+Height 109 114 > Speed 51 68
+Name L M > Speed 57 58
+Name D G > Name M R
+Speed 38 43 > Name S Y
+Speed 16 18 > Name E I
+Name C F > Name P X
+Height 52 131 > Name Q S
+Name A C > Name E S
+Name B G > Speed 41 46
+Height 124 170 > Name U Y
+Name I L > Speed 54 63
+Height 137 144 > Speed 67 70
+Name E J > Speed 43 62
+Height 70 96 > Name V Z
+Speed 15 43 > Height 151 204
+Speed 26 29 > Height 132 141
+Name E K > Name R S
+Name B F > Name I S
+Speed 22 41 > Name P V
+Name E E > Name S X
+Name C M > Name O W
+Height 137 139 > Speed 51 60
+Height 114 160 > Name U X
+Speed 24 39 > Speed 55 67
+Name E G > Height 135 159
+Speed 25 37 > Height 133 138
+Height 80 115 > Speed 41 56
+Name B I > Name L M
+Height 59 72 > Name R T
+Height 83 149 > Name T T
+Height 74 122 > Name Q Z
+Height 61 153 > Speed 60 64
+Speed 16 31 > Name M T
+Name E I > Speed 43 54
+Name L M > Height 181 194
+Height 53 80 > Name N Q
+Speed 20 27 > Name N X
+Name F P > Name W Y
+Height 90 169 > Height 183 210
+Name H H > Name N U
+Speed 38 48 > Height 170 187
+Name E L > Speed 52 63
+Speed 16 19 > Height 156 184
+Name H N > Height 164 191
+Height 92 109 > Name M X
+Name H L > Speed 62 63
+Name B L > Speed 57 58
+Name E F > Speed 36 43
+Speed 19 40 > Speed 45 58
+Speed 16 22 > Height 111 180
+Speed 29 40 > Name V W
+Height 111 123 > Height 150 160
+Name A I > Speed 44 49
+Name C N > Height 160 208
+Name F H > Height 180 184
+Height 75 104 > Height 129 147
+Height 72 73 > Speed 27 32
+Speed 20 25 > Name J Y
+Name F H > Speed 40 55
+Height 76 119 > Name N P
+Speed 15 21 > Speed 35 48
+Height 86 98 > Speed 36 47
+Height 86 135 > Name U Z
+Height 60 79 > Speed 36 39
+Speed 16 31 > Height 113 214
+Speed 15 27 > Name Q Q
+Name B F > Name U X
+Height 82 167 > Name V W
+Speed 15 19 > Height 153 210
+Height 87 109 > Speed 43 45
+Height 67 121 > Name Q W
+Name F H > Speed 53 69
+Height 58 101 > Height 138 207
+Speed 18 18 > Name K V
+Name F R > Height 192 203
+Height 94 99 > Name S Z
+Name A K > Speed 52 61
+Name H K > Speed 43 68
+Height 109 115 > Speed 51 60
+Speed 31 37 > Name N W
+Name B D > Height 115 121
+Name Q S > Speed 62 64
+Name H N > Height 154 179
+Speed 27 30 > Speed 61 65
+Speed 16 27 > Height 120 121
+Speed 19 36 > Speed 63 65
+Speed 20 28 > Speed 39 66
+Speed 19 54 > Name U Z
+Name A H > Name K K
+Height 73 106 > Name L P
+Height 57 61 > Speed 57 58
+Name L L > Speed 60 67
+Name B P > Speed 62 68
+Speed 23 44 > Name R U
+Name C P > Name T V
+Speed 21 25 > Speed 33 51
+Height 101 103 > Height 192 200
+Height 82 110 > Height 138 159
+Speed 19 29 > Speed 44 48
+Height 72 119 > Height 155 184
+Speed 15 16 > Speed 21 34
+Name C E > Name L Q
+Name H I > Height 170 188
+Height 93 131 > Name R W
+Height 58 82 > Height 98 177
+Speed 24 36 > Speed 53 58
+Height 54 72 > Speed 31 46
+Height 73 160 > Speed 68 70
+Height 67 75 > Height 177 212
+Height 112 167 > Height 185 195
+Speed 27 42 > Name R V
+Speed 19 22 > Name R T
+Speed 32 33 > Speed 41 44
+Speed 32 38 > Name P R
+Speed 45 46 > Name V Y
+Name B D > Name H Q
+Speed 15 28 > Speed 48 65
+Name A A > Name Y Z
+Height 64 65 > Height 87 203
+Name A D > Name Y Y
+Name D S > Name Y Y
+Speed 15 27 > Name O Y
+Name B Q > Speed 67 70
+Name B F > Speed 55 63
+Height 77 118 > Speed 46 53
+Name B J > Height 135 187
+Speed 16 20 > Name O S
+Height 65 141 > Height 164 201
+Height 97 169 > Height 196 198
+Speed 20 31 > Speed 49 67
+Name C D > Height 87 176
+Name F J > Speed 42 70
+Speed 25 29 > Name M P
+Name C G > Height 171 181
+Name Q R > Speed 59 66
+Name A S > Speed 67 69
+Name M R > Name X Y
+Name H I > Speed 38 68
+Name D L > Height 140 155
+Name F I > Height 163 169
+Speed 26 35 > Name V X
+Height 93 107 > Height 125 181
+Speed 33 47 > Speed 63 65
+Height 57 157 > Height 200 201
+Height 63 78 > Name K Y
+Height 80 90 > Speed 34 69
+Height 94 133 > Speed 54 55
+Height 63 116 > Speed 64 67
+Speed 17 27 > Height 146 212
+Name E L > Height 157 188
+Name C E > Height 150 189
+Height 66 117 > Name M O
+Height 62 63 > Speed 31 65
+Speed 27 32 > Height 186 197
+Height 58 68 > Name M R
+Height 54 66 > Height 82 151
+Name B D > Speed 28 56
+Height 84 92 > Height 115 211
+Height 116 154 > Speed 56 61
+Height 72 85 > Speed 41 54
+Name A I > Height 172 178
+Height 52 100 > Speed 45 61
+Speed 28 35 > Name U Y
+Name D U > Speed 64 70
+Name D I > Name O X
+Name E I > Height 189 196
+Name A C > Speed 37 56
+Speed 27 45 > Height 160 190
+Height 110 151 > Height 180 186
+Speed 37 38 > Speed 46 55
+Name D N > Height 213 214
+Height 150 172 > Speed 63 69
+Name A N > Speed 63 65
+Height 120 142 > Name V W
+Height 108 128 > Name Q T
+Name F H > Height 161 187
+Height 64 71 > Height 99 107
+Name G L > Name U Z
+Name H K > Height 163 185
+Speed 29 42 > Name Q U
+Speed 15 37 > Height 158 166
+Speed 18 19 > Speed 31 33
+Speed 24 25 > Name N Q
+Speed 26 26 > Speed 61 63
+Height 57 136 > Height 165 177
+Name A N > Speed 49 67
+Speed 31 52 > Speed 61 63
+Speed 17 19 > Name L W
+Height 74 82 > Speed 62 65
+Height 62 127 > Name T U
+Speed 35 43 > Name T Y
+Height 74 93 > Name J P
+Name G H > Height 141 176
+Name C C > Height 90 137
+Speed 15 17 > Height 95 184
+Speed 50 55 > Height 210 212
+Name I K > Name U U
+Height 77 86 > Height 205 214
+Speed 26 42 > Height 203 206
+Speed 20 21 > Speed 52 62
+Speed 34 46 > Speed 53 61
+Height 85 102 > Speed 41 58
+Name D F > Height 162 179
+Height 74 84 > Speed 45 70
+Height 78 93 > Name X Z
+Speed 18 38 > Speed 61 69
+Height 96 130 > Speed 53 65
+Name A L > Height 138 142
+Height 118 120 > Name S Z
+Name A L > Height 152 166
+Height 97 105 > Name R S
+Name G G > Height 136 183
+Name E P > Speed 69 70
+Speed 20 23 > Speed 50 64
+Name C F > Name O S
+Height 86 113 > Speed 46 58
+Speed 43 46 > Speed 51 68
+Speed 48 56 > Speed 66 70
+Name D P > Name W Y
+Name G L > Name V Y
+Speed 16 37 > Height 133 163
+Name C C > Speed 53 61
+Name A G > Speed 65 69
+Height 66 66 > Name L U
+Speed 36 40 > Name O R
+Height 63 84 > Name K S
+Speed 19 32 > Speed 50 67
+Name B F > Height 141 209
+Name E F > Speed 35 52
+Height 52 107 > Speed 60 68
+Height 143 157 > Name U W
+Height 88 148 > Height 162 171
+Name A O > Height 196 214
+Speed 32 33 > Speed 37 46
+Speed 22 31 > Name M N
+Speed 36 37 > Speed 42 56
+Height 52 59 > Height 124 184
+Name G H > Speed 59 67
+Speed 17 25 > Height 114 136
+Name B D > Height 166 195
+Height 106 127 > Height 171 186
+Name F K > Name T T
+Speed 29 41 > Name R S
+Height 92 103 > Name V Y
+Speed 36 39 > Height 163 198
+Name M M > Name U V
+Height 73 119 > Name M Z
+Name F L > Height 171 205
+Name F H > Height 204 211
+Height 80 85 > Speed 49 68
+Height 79 136 > Name T T
+Name B H > Speed 37 64
+Name D G > Name J K
+Name B I > Height 176 200
+Name D D > Name K T
+Name B P > Speed 56 69
+Name E R > Name W Y
+Speed 26 51 > Name U V
+Speed 26 48 > Height 177 215
+Height 109 135 > Name V W
+Height 54 89 > Speed 32 54
+Speed 37 46 > Speed 52 56
+Speed 15 51 > Height 182 207
+Speed 24 25 > Height 129 187
+Height 69 75 > Name T T
+Speed 17 53 > Height 192 216
+Name D L > Speed 49 61
+Speed 23 24 > Height 130 202
+Speed 25 33 > Height 187 209
+Name F G > Height 177 208
+Speed 15 46 > Name U W
+Name F N > Height 153 181
+Height 81 89 > Name J U
+Speed 27 41 > Name Q S
+Name E H > Speed 36 37
+Speed 48 50 > Speed 63 70
+Height 86 90 > Name O W
+Name J N > Name P X
+Speed 21 22 > Height 189 195
+Speed 22 42 > Height 187 202
+Name C H > Speed 52 69
+Name F I > Height 115 137
+Speed 18 20 > Speed 55 58
+Height 74 113 > Height 179 187
+Speed 39 40 > Name Q Z
+Speed 28 36 > Name M Z
+Height 112 151 > Name T X
+Height 144 158 > Speed 61 64
+Name B F > Height 157 209
+Speed 25 47 > Name R T
+Height 74 89 > Speed 33 48
+Height 75 135 > Speed 48 53
+Height 67 73 > Speed 41 67
+Name F G > Name O W
+Name G J > Speed 46 55
+Height 59 79 > Speed 36 50
+Speed 19 33 > Speed 48 58
+Speed 16 21 > Speed 61 66
