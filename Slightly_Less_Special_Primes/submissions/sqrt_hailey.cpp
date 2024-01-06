@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include <cmath>
 using namespace std;
 
 int main() {
@@ -7,18 +8,22 @@ int main() {
     cin >> n;
 
     // Sieve of Eratosthenes, O(n log log n)
-    vector<bool> sieve(n+1, true);
-    sieve[0] = false;
-    sieve[1] = false;
+    vector<bool> isPrime(n+1, true);
+    isPrime[0] = false;
+    isPrime[1] = false;
+    isPrime[2] = true;
     vector<int> primes;
-    for (int i = 2; i <= n; i++) {
-        if (sieve[i]) {
-            primes.push_back(i);
-            int j = i*2;
-            while (j <= n) {
-                sieve[j] = false;
-                j += i;
+    primes.push_back(2);
+    for (int i = 3; i <= n; i++) {
+        int j_max = ceil(sqrt(i));
+        for (int j = 2; j <= j_max; j++) {
+            if (i%j == 0) {
+                isPrime[i] = false;
+                break;
             }
+        }
+        if (isPrime[i]) {
+            primes.push_back(i);
         }
     }
 
@@ -34,7 +39,7 @@ int main() {
         }
         int C = primes[B-A-1];
         int x = A*C+B*C+1;
-        if (x <= n && sieve[x]) {
+        if (x <= n && isPrime[x]) {
             counter++;
         }
     }
